@@ -1,0 +1,585 @@
+.header-fixed .app-header {
+    position: fixed;
+    z-index: 1020;
+    width: 100%;
+}
+
+.app-header.navbar {
+    position: relative;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    height: 55px;
+    padding: 0;
+    margin: 0;
+    background-color: #fff;
+    border-bottom: 1px solid #a4b7c1;
+}
+
+.app-header,
+.app-footer,
+.sidebar,
+.main,
+.aside-menu {
+    transition: margin-left .25s, margin-right .25s, width .25s, flex .25s;
+    transition: margin-left .25s, margin-right .25s, width .25s, flex .25s, -ms-flex .25s;
+}
+
+.uk-diagnostics .app-header {
+    -ms-flex: 0 0 55px;
+    flex: 0 0 55px;
+}
+
+.uk-diagnostics .navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+article,
+aside,
+dialog,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+    display: block;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+user agent stylesheet article,
+aside,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+    display: block;
+}
+
+.uk-diagnostics .app-header.navbar .navbar-toggler {
+    min-width: 50px;
+    padding: .25rem 0;
+}
+
+.uk-diagnostics .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+button,
+html [type=button],
+[type=reset],
+[type=submit] {
+    -webkit-appearance: button;
+}
+
+@media (min-width: 992px) {
+    .d-lg-none {
+        display: none !important;
+    }
+}
+
+.uk-diagnostics .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.09375rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+button {
+    cursor: pointer;
+}
+
+button,
+select {
+    text-transform: none;
+}
+
+button,
+input {
+    overflow: visible;
+}
+
+input,
+button,
+select,
+optgroup,
+textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+button {
+    border-radius: 0;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.app-header.navbar .navbar-toggler-icon {
+    height: 23px;
+    background-image: url(data:image/svg+xml;charset=utf8;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAgMzAnIHht…tlLW1pdGVybGltaXQ9JzEwJyBkPSdNNCA3aDIyTTQgMTVoMjJNNCAyM2gyMicvPjwvc3ZnPg==);
+}
+
+.uk-diagnostics .navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.uk-diagnostics .app-header.navbar .navbar-brand {
+    display: inline-block;
+    width: 200px;
+    height: 55px;
+    padding: .5rem 1rem;
+    margin-right: 0;
+    background-color: #fff;
+    background-image: url(../images/logo_hr.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 150px auto;
+    border-bottom: 1px solid #a4b7c1;
+}
+
+.uk-diagnostics .navbar-brand {
+    color: #29363d;
+}
+
+.uk-diagnostics .navbar-brand {
+    display: inline-block;
+    padding-top: .33594rem;
+    padding-bottom: .33594rem;
+    margin-right: 1rem;
+    font-size: 1.09375rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+a {
+    color: #20a8d8;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.uk-diagnostics .app-header.navbar .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.uk-diagnostics .navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.uk-diagnostics .nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+ol,
+ul,
+dl {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.uk-diagnostics .app-header.navbar .nav-item {
+    position: relative;
+    min-width: 50px;
+    margin: 0 !important;
+    text-align: center;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.uk-diagnostics .app-header.navbar .nav-item .nav-link,
+.uk-diagnostics .app-header.navbar .nav-item .dropdown-toggle {
+    padding-top: 0;
+    padding-bottom: 0;
+    background: 0;
+    border: 0;
+}
+
+.uk-diagnostics .app-header.navbar .navbar-toggler {
+    min-width: 50px;
+    padding: .25rem 0;
+}
+
+.uk-diagnostics .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.uk-diagnostics .navbar-nav .nav-link,
+.uk-diagnostics .navbar-nav .navbar .dropdown-toggle,
+.uk-diagnostics .navbar .navbar-nav .dropdown-toggle {
+    color: #536c79;
+}
+
+.uk-diagnostics .navbar-nav .nav-link,
+.uk-diagnostics .navbar-nav .navbar .dropdown-toggle,
+.uk-diagnostics .navbar .navbar-nav .dropdown-toggle {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.uk-diagnostics .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.09375rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+.uk-diagnostics .nav-link,
+.uk-diagnostics .navbar .dropdown-toggle {
+    display: block;
+    padding: .5rem 1rem;
+}
+
+.uk-diagnostics a {
+    color: #20a8d8;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.uk-diagnostics .app-header.navbar .navbar-toggler-icon {
+    height: 23px;
+    background-image: url(data:image/svg+xml;charset=utf8;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAgMzAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHBhdGggc3Ryb2tlPScjMjkzNjNkJyBzdHJva2Utd2lkdGg9JzIuMjUnIHN0cm9rZS1saW5lY2FwPSdyb3VuZCcgc3Ryb2tlLW1pdGVybGltaXQ9JzEwJyBkPSdNNCA3aDIyTTQgMTVoMjJNNCAyM2gyMicvPjwvc3ZnPg==);
+}
+
+.uk-diagnostics .navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.uk-diagnostics .navbar-toggler:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.uk-diagnostics .navbar-nav .nav-link,
+.uk-diagnostics .navbar-nav .navbar .dropdown-toggle,
+.uk-diagnostics .navbar .navbar-nav .dropdown-toggle {
+    color: #536c79;
+}
+
+.uk-diagnostics .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.09375rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+.uk-diagnostics a {
+    color: #20a8d8;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.uk-diagnostics .app-header.navbar .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.ml-auto,
+.mx-auto {
+    margin-left: auto !important;
+}
+
+.uk-diagnostics .navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.uk-diagnostics .nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+ol,
+ul,
+dl {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.ml-auto,
+.mx-auto {
+    margin-left: auto !important;
+}
+
+
+@media (max-width: 991.98px) {
+    .uk-diagnostics .app-header.navbar {
+        position: fixed !important;
+        z-index: 1020;
+        width: 100%;
+        text-align: center;
+        background-color: #fff;
+        border-bottom: 1px solid #a4b7c1;
+    }
+
+    .uk-diagnostics .app-header.navbar .navbar-toggler {
+        color: #536c79;
+    }
+
+    .uk-diagnostics .app-header.navbar .navbar-brand {
+        position: absolute;
+        left: 50%;
+        margin-left: -77.5px;
+    }
+    .uk-diagnostics .d-md-down-none {
+        display: block !important;
+    }
+
+    .uk-diagnostics .app-header.navbar .navbar-toggler {
+        color: #536c79;
+    }
+}
+
+.uk-diagnostics .md-virtual-repeat-container.md-autocomplete-suggestions-container {
+    top: 55px !important;
+}
+
+.uk-diagnostics .md-autocomplete-suggestions li {
+    height: 60px;
+    line-height: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.uk-diagnostics .md-autocomplete-suggestions li button .material-icons {
+    color: white;
+}
+
+.uk-diagnostics .md-autocomplete-suggestions.autocomplete-custom-template .heading {
+    font-weight: bold;
+    color: darkslategray;
+    font-size: 11pt;
+}
+
+.uk-diagnostics .md-autocomplete-suggestions.autocomplete-custom-template .other-details {
+    font-size: 12px;
+    color: royalblue;
+}
+
+.uk-diagnostics .md-autocomplete-suggestions.autocomplete-custom-template .other-details .price {
+    padding-right: 10px;
+}
+
+.uk-diagnostics .md-autocomplete-suggestions.autocomplete-custom-template .result-row {
+    width: 80%;
+    float: left;
+}
+
+.uk-diagnostics .md-autocomplete-suggestions.autocomplete-custom-template button {
+    float: right;
+    text-transform: none;
+    margin: 12px 8px;
+} 
+
+.uk-diagnostics header {
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, .2), 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12);
+}
+
+.uk-diagnostics md-sidenav {
+    position: absolute !important;
+    width: 200px;
+}
+
+.uk-diagnostics md-sidenav md-content {
+    margin-top: 30px;
+    padding: 0px !important;
+    overflow: hidden;
+}
+
+.uk-diagnostics md-sidenav md-menu-item {
+    border-bottom: 1px solid lightgray;
+}
+
+.uk-diagnostics md-sidenav md-content md-menu-content {
+    min-width: 0px !important;
+}
+
+.uk-diagnostics md-sidenav md-content md-menu-content button.md-raised {
+    /* font-weight: bold; */
+    color: #F48C2D !important;
+}
+
+.uk-diagnostics md-list-item.md-3-line, md-list-item.md-3-line>.md-no-style {
+    min-height: 0px;
+}
+
+.uk-diagnostics md-list-item.md-no-proxy, md-list-item .md-no-style {
+    padding: 0px;
+}
+
+.uk-diagnostics md-list-item.md-3-line:before, md-list-item.md-3-line>.md-no-style:before {
+    min-height: 0px;
+}
+
+.uk-diagnostics md-list {
+    padding: 0px;
+}
+
+.uk-diagnostics md-list.md-default-theme md-list-item.md-2-line .md-list-item-text h3, md-list md-list-item.md-2-line .md-list-item-text h3, md-list.md-default-theme md-list-item.md-2-line .md-list-item-text h4, md-list md-list-item.md-2-line .md-list-item-text h4, md-list.md-default-theme md-list-item.md-3-line .md-list-item-text h3, md-list md-list-item.md-3-line .md-list-item-text h3, md-list.md-default-theme md-list-item.md-3-line .md-list-item-text h4, md-list md-list-item.md-3-line .md-list-item-text h4 {
+    color: #3E3471;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.uk-diagnostics .md-warn {
+    background: #F48C2D !important;
+}
+
+.uk-diagnostics .navbar-nav form .material-icons {
+    position: absolute;
+    left: 0px;
+    top: 9px;
+    z-index: 999;
+}
+
+.uk-diagnostics md-autocomplete {
+    padding-left: 10px;
+}
+
+
+.uk-diagnostics md-autocomplete-wrap {
+    box-shadow: none !important;
+}
+
+.uk-diagnostics button .material-icons {
+    position: relative !important;
+    top: 6px !important;
+    padding-right: 5px !important;
+    color: #3E3471;
+}
+
+.uk-diagnostics .md-sidenav-left md-menu-item button.md-raised .material-icons {
+    color: #F48C2D;
+}
+
+.uk-diagnostics md-content.page-content {
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+.uk-diagnostics md-list button.add {
+    background: #03DE00 !important;
+    color: white;
+}
+
+.uk-diagnostics md-list button.remove {
+    background: red !important;
+    color: white;
+}
+
+.uk-diagnostics md-chips-wrap {
+    box-shadow: none !important;
+    display: inline-block !important;
+}
+
+.uk-diagnostics md-tabs.md-default-theme .md-tab.md-active, md-tabs .md-tab.md-active, md-tabs.md-default-theme .md-tab.md-active md-icon, md-tabs .md-tab.md-active md-icon, md-tabs.md-default-theme .md-tab.md-focused, md-tabs .md-tab.md-focused, md-tabs.md-default-theme .md-tab.md-focused md-icon, md-tabs .md-tab.md-focused md-icon {
+    color: #F48C2D;
+}
+
+.uk-diagnostics .list-item-sel {
+    background: #f9edd9;
+}

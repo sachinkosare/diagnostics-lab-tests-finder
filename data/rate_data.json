@@ -1,0 +1,4201 @@
+{
+    "rate_list": [
+        {
+            "ID": "1",
+            "test_name": "17-OH Progesterone",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "1.CAH 2.Monitoring cortisol Replacement therapy\r\n 3. evaluating infertility 4. Adrenal and overian neoplasm  ",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "2",
+            "test_name": "24 hrs urinary phosphorous inorganic",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "3",
+            "test_name": "24 hrs urinary calcium",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "4",
+            "test_name": "24 hrs urinary magnesium",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "5",
+            "test_name": "24 hrs urinary uric acid ",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "6",
+            "test_name": "24 hrs urinary copper",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "7",
+            "test_name": "24 hrs 5 hydroxy Indole Acitic Acid",
+            "sample_instruction": "15 ml of 24 hrs urine \r\npreservative 10 ml of 6 N HCL ",
+            "clinical_use": "End product of serotonin used for patient with carcinoid \r\ntumor of mid gut. Container to be kept in dark throughout\r\ncollection. Sample aliquot to be transported in albuminium\r\nfoil. Do not consume bananas, pineapple, nuts 48 hrs  before collection. mention CT scan report, USG and medication history.",
+            "reporting_time": "7 - 10 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "8",
+            "test_name": "24 hrs Protein/ Creatinine Ratio",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "9",
+            "test_name": "24 hrs urinary calcium, Creatinine Ratio",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "10",
+            "test_name": "24 hrs urinary Citrate",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "mention 24 hrs urine volume",
+            "reporting_time": "3 -5 days ",
+            "price": "1,500"
+        },
+        {
+            "ID": "11",
+            "test_name": "24 hrs urinary Metanephrine ",
+            "sample_instruction": "10 ml of 24 hrs urine. Use HCL as\r\nPreservative.",
+            "clinical_use": "Hyper tention and Catecholamine secreating tumor. Do not \r\nconsume bananas, chocolates, coffee, high diet in cereals, vanilla, patatoes, B complex vitamins 48 hrs prior to the collection. It is advisible to discontinue all medications Alpha Methyl Dopa, MAO and COMT inhibitors as well as medications related to Hypertension 72 hrs before collection. (Physician should be consulted for stopping the medication. ",
+            "reporting_time": "3 - 5 days",
+            "price": "3000"
+        },
+        {
+            "ID": "12",
+            "test_name": "24 hrs urinary Oxalate",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "3 - 5 days",
+            "price": "1,500"
+        },
+        {
+            "ID": "13",
+            "test_name": "24 hrs urine Microalbumin",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "450"
+        },
+        {
+            "ID": "14",
+            "test_name": "24 hrs urine Catecholamine",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "3 - 5 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "15",
+            "test_name": "24 hrs urine Creatinine",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "16",
+            "test_name": "24 hrs urinary Protein Total",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume.",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "17",
+            "test_name": "24 hrs urinary Vanillymandelic Acid",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume. Do not consume bananas,\r\n chocolates, coffee, ice cream, high diet in cereals, B complex vitamins 48 hrs prior to the collection. Provide CT scan, USG report and Medication history.",
+            "reporting_time": "3 - 5 days",
+            "price": "2,200"
+        },
+        {
+            "ID": "18",
+            "test_name": "24 hrs urinary electrolites",
+            "sample_instruction": "10 ml of 24 hrs urine",
+            "clinical_use": "Mention 24 hrs urine volume.",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "19",
+            "test_name": "24 hrs urinary VMA",
+            "sample_instruction": "10 ml of 24 hrs urine. Use 6 N HCL as\r\nPreservative.",
+            "clinical_use": "Mention 24 hrs urine volume. 10 ml of 6 N HCL Do not consume bananas, chocolates, coffee, ice cream, high diet in cereals, B complex vitamins 48 hrs prior to the collection. Provide CT scan, USG report and Medication history.",
+            "reporting_time": "3 - 5 days",
+            "price": "3000"
+        },
+        {
+            "ID": "20",
+            "test_name": "Acetone Ketone Serum",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Used for diognosing Ketoacidosis. We will replaced eith D3\r\nHydroxybutrate Ketone bodies from 1st july 2015.",
+            "reporting_time": "7 - 10 days",
+            "price": "700"
+        },
+        {
+            "ID": "21",
+            "test_name": "Acetyl Choline Receptor Binding \r\nAntibody",
+            "sample_instruction": "2 ml Serum same day",
+            "clinical_use": "Myasthenia Gravis. History required",
+            "reporting_time": "3 - 5 days",
+            "price": "4000"
+        },
+        {
+            "ID": "22",
+            "test_name": "Acid Phosphatase Total",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "For walk in Patients",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "23",
+            "test_name": "Acid Phosphatase Total and prostatic \r\nfraction",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "For walk in Patients",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "24",
+            "test_name": "Acute leukemia mini panel",
+            "sample_instruction": "Sodium Heparin Vacutainer (2ml) and \r\nEDTA vacutainer (3ml) ",
+            "clinical_use": "Cytogenrtics + PCR [AML/ETO,inv(16), PML/RARA, BCR/ABL, \r\nTEL/AMA1, MLL, E2A]",
+            "reporting_time": "5 - 7 days",
+            "price": "8,000"
+        },
+        {
+            "ID": "25",
+            "test_name": "Adenosine Deaminase",
+            "sample_instruction": "2 ml fluid in plain vail",
+            "clinical_use": "used for diagnosing Tuberculosis",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "26",
+            "test_name": "Adenosine Deaminase (serum)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "used for diagnosing Tuberculosis",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "27",
+            "test_name": "ADH- Anti diuretic harmone \r\nVasopressin Plasma",
+            "sample_instruction": "3 ml of EDTA Plasma",
+            "clinical_use": "SIADH occuring with neoplasia , Pulmonary Disorder, CNS \r\nDisorder and with specific drugs. Fasting sample in a chilled tube\r\ncontaining EDTA, centrifuge immediately and freeze specimen \r\nin plastic tube",
+            "reporting_time": "7 - 10 days",
+            "price": "3,800"
+        },
+        {
+            "ID": "28",
+            "test_name": "Alanine Amino Transferase (SGPT-ALT)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "29",
+            "test_name": "Albumin/ Creatinine Ratio",
+            "sample_instruction": "2 ml spot urine",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "30",
+            "test_name": "Alcohol Ethanol Serum",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Do not use spirit/ alcohol  while collection. Cap well. Always \r\ncollect in gel vacutainer and separate by centrifugation at the\r\nearliest in same tube. Do not separate serum in another tube.",
+            "reporting_time": "3 - 5 days",
+            "price": "1,300"
+        },
+        {
+            "ID": "31",
+            "test_name": "Alcohol Ethanol urine ",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Do not use spirit/ alcohol  while collection. Cap well. Always \r\ncollect in gel vacutainer and separate by centrifugation at the\r\nearliest in same tube. Do not separate serum in another tube.",
+            "reporting_time": "3 - 5 days",
+            "price": "1,300"
+        },
+        {
+            "ID": "32",
+            "test_name": "Aldosterone",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Labile analyte. Separate at the earliest. Preserve well. Mention\r\nposition of collection.",
+            "reporting_time": "3 - 5 days",
+            "price": "1,800"
+        },
+        {
+            "ID": "33",
+            "test_name": "All PCR Panel",
+            "sample_instruction": "Sodium Heparin Vacutainer (2ml) and \r\nEDTA vacutainer (3ml) ",
+            "clinical_use": "Cytogenrtics + PCR [AML/ETO,inv(16), PML/RARA, BCR/ABL, \r\nTEL/AMA1, MLL, E2A]",
+            "reporting_time": "5 - 7 days",
+            "price": "7,000"
+        },
+        {
+            "ID": "34",
+            "test_name": "Allergy Food Non-Veg",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "5 - 7 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "35",
+            "test_name": "Allergy Food Veg",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "5 - 7 days",
+            "price": "2,500"
+        },
+        {
+            "ID": "36",
+            "test_name": "Allergy complete",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "5 - 7 days",
+            "price": "6,000"
+        },
+        {
+            "ID": "37",
+            "test_name": "Allergy Drug",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "5 - 7 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "38",
+            "test_name": "Allergy Food Inhaler Non Veg",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "5 - 7 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "39",
+            "test_name": "Allergy Food Inhaler Veg",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "5 - 7 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "40",
+            "test_name": "Allergy Inhaler",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "5 - 7 days",
+            "price": "2,200"
+        },
+        {
+            "ID": "41",
+            "test_name": "Alpha Feto Protein(AFP)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "mention age, LMP and use findings and clinical history",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "42",
+            "test_name": "Alpha-1 Anti- Trypsin",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "2,000"
+        },
+        {
+            "ID": "43",
+            "test_name": "AML PCR Panel",
+            "sample_instruction": "Sodium Heparin Vacutainer (2ml) and \r\nEDTA vacutainer (3ml) ",
+            "clinical_use": "Cytogenrtics + PCR [AML/ETO,inv(16), PML/RARA, \r\nMLL",
+            "reporting_time": "5 -7 days",
+            "price": "7,000"
+        },
+        {
+            "ID": "44",
+            "test_name": "Ammonia",
+            "sample_instruction": "2 ml of Heparinised Plasma",
+            "clinical_use": "For walk in Patients",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "45",
+            "test_name": "Amylase",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Acute infection of Pancreas",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "46",
+            "test_name": "Amylase Fluid",
+            "sample_instruction": "2 ml body fluid",
+            "clinical_use": "Acute infection of Pancreas. Referance range not established",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "47",
+            "test_name": "ANA ELISA Anti nuclear Antibody",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "48",
+            "test_name": "ANA Immunoblot",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Detection of 17 different collagen markers including",
+            "reporting_time": "Same day",
+            "price": "2,400"
+        },
+        {
+            "ID": "49",
+            "test_name": "ANA Immunofluorescences",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "ANA blot is done if ANA is positive",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "50",
+            "test_name": "Anemia profile Haemolytic type",
+            "sample_instruction": "6 ml of EDTA whole blood, 4 ml of \r\nHeparin whole blood and 3 ml of\r\nserum",
+            "clinical_use": "CBC, Reticulocyte count ,G6PD, Osmotic Fragility, Haptoglobulin,\r\nAbnormal HB studies, LDH, Coombs Bilirubin",
+            "reporting_time": "2 - 3 days",
+            "price": "3,100"
+        },
+        {
+            "ID": "51",
+            "test_name": "Anemia profile Macrocytic Anemia Panel",
+            "sample_instruction": "3 ml of EDTA whole blood, 5 ml of Serum",
+            "clinical_use": "CBC, Vit B12 Folic Acid",
+            "reporting_time": "Same day",
+            "price": "1,400"
+        },
+        {
+            "ID": "52",
+            "test_name": "Anemia Profile Maxi",
+            "sample_instruction": "6 ml of EDTA whole blood, 4 ml of \r\nHeparin whole blood and 3 ml of\r\nserum",
+            "clinical_use": "CBC, Reticulocyte count, Iron TIBC, Transferrin Saturation, Vit B12CRP, Abnormal Hb studies, Folate(serum and RBC), ferritin, G6PD,Hepatoglobulin, Osmotic Fragility, DCT, TSH, Creatinine",
+            "reporting_time": "2 - 3 days",
+            "price": "6,500"
+        },
+        {
+            "ID": "53",
+            "test_name": "Anemia Profile Microcytic Hypochromic\r\nPanel",
+            "sample_instruction": " 3 ml of EDTA whole blood, 5 ml of serum",
+            "clinical_use": " CBC, Iron Studies, StFR Ferritin",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "54",
+            "test_name": "Anemia Profile Mini",
+            "sample_instruction": " 3 ml of EDTA whole blood, 5 ml of serum",
+            "clinical_use": "CBC, Iron, TIBC, Transferrin Saturation, Vitamin B12 and Ferritin",
+            "reporting_time": "Same day",
+            "price": "1,700"
+        },
+        {
+            "ID": "55",
+            "test_name": "ANCA by IFA",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "End point dilution for Positive Cases is Included if requested\r\nin Writing sebsequently",
+            "reporting_time": "3 -4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "56",
+            "test_name": "Androstenedione level",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Adrenogen excess, CAH",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "57",
+            "test_name": "Angiotensin converting enzyme",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "R Sarcoidosis",
+            "reporting_time": "Same day",
+            "price": "1,100"
+        },
+        {
+            "ID": "58",
+            "test_name": "Angiotensin converting enzyme",
+            "sample_instruction": "2 ml of CSF",
+            "clinical_use": "Neurosarcoidosis",
+            "reporting_time": "Same day",
+            "price": "3,500"
+        },
+        {
+            "ID": "59",
+            "test_name": "Antenatal Profile -1 ANC profile - 1",
+            "sample_instruction": "2 ml of EDTA whole blood, 3 ml of serum\r\n2 ml of Fluoride Plasma, 20 ml of\r\n Spot Urine",
+            "clinical_use": "CBC, Urine Rt, VDRL, Blood group, HIV, HBsAG and FBS",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "60",
+            "test_name": "Antenatal Profile -2 ANC profile - 2",
+            "sample_instruction": "2 ml of EDTA whole blood, 3 ml of serum\r\n2 ml of Fluoride Plasma, 20 ml of\r\n Spot Urine",
+            "clinical_use": "CBC, Blood group, TSH, VDRL, HBsAG, HIV-DUO, Anti HCV, \r\nAbnormal Hb studies, FBS, PPBS, Urine routine reflex urine \r\nculture ",
+            "reporting_time": "Same day",
+            "price": "2,000"
+        },
+        {
+            "ID": "61",
+            "test_name": "Anti - Histone Antibody",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Mention ANA findings",
+            "reporting_time": "3 -5 days ",
+            "price": "3,000"
+        },
+        {
+            "ID": "62",
+            "test_name": "Anti amoebic Antibody IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Entamoeba Histolytica IgG done, instead of IHA for Amoebiasis",
+            "reporting_time": "Same day",
+            "price": "850"
+        },
+        {
+            "ID": "63",
+            "test_name": "Anti Cardiolipin IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, all three antibodies are \r\nselected by default",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "64",
+            "test_name": "Anti Cardiolipin IgM",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, all three antibodies are \r\nselected by default",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "65",
+            "test_name": "Anti-deamidated Gliadin Peptide IgA\r\nAntibody",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Associated with Coeliac Disease",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "66",
+            "test_name": "Anti malaria Antibody IgM",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "67",
+            "test_name": "Anti measles Antibody IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, all three antibodies are \r\nselected by default",
+            "reporting_time": "After 3 days",
+            "price": "850"
+        },
+        {
+            "ID": "68",
+            "test_name": "Anti measles Antibody IgG",
+            "sample_instruction": "2 ml of CSF",
+            "clinical_use": "Includes total IgG, Specific IgG from CSF as well as serum and\r\nQuotient will be repoted ",
+            "reporting_time": "After 3 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "69",
+            "test_name": "Anti measles Antibody IgM",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, IgM is selected by default",
+            "reporting_time": "After 3 days",
+            "price": "850"
+        },
+        {
+            "ID": "70",
+            "test_name": "Anti Mitochondria Antibody",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "After 3 days",
+            "price": "1,500"
+        },
+        {
+            "ID": "71",
+            "test_name": "Anti Mullerian Harmone (AMH)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Ovarian Reserve Marker",
+            "reporting_time": "Same day",
+            "price": "1,500"
+        },
+        {
+            "ID": "72",
+            "test_name": "Anti Mumps Virus Antibody IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, IgM is selected by default",
+            "reporting_time": "After 3 days",
+            "price": "1,200"
+        },
+        {
+            "ID": "73",
+            "test_name": "Anti Mumps Virus Antibody IgG",
+            "sample_instruction": "2 ml of CSF",
+            "clinical_use": "Includes total IgG, Specific IgG from CSF as well as serum and\r\nQuotient will be repoted ",
+            "reporting_time": "After 10 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "74",
+            "test_name": "Anti Mumps Virus Antibody IgM",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, IgG is selected by default",
+            "reporting_time": "After 3 days",
+            "price": "1,200"
+        },
+        {
+            "ID": "75",
+            "test_name": "Anti Phospholipid Antibody (IgG)",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "76",
+            "test_name": "Anti Phospholipid Antibody (IgM)",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "77",
+            "test_name": "Anti smooth muscle Antibodies",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Mention ANA findings if Available",
+            "reporting_time": "After 3 days",
+            "price": "1,500"
+        },
+        {
+            "ID": "78",
+            "test_name": "Anti Sperm Antibody ",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Indicated in Infertility Workup",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "79",
+            "test_name": "Anti Thrombin III (os)",
+            "sample_instruction": "3 ml of Sodium Heparin Blood",
+            "clinical_use": "Platelet Poor Plasma requested, Separate at the earliest \r\nPreserve well",
+            "reporting_time": "After 3 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "80",
+            "test_name": "Anti Varicella Zoster Antibody IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, IgM is selected by default\r\nChiken Pox, Shingles",
+            "reporting_time": "After 3 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "81",
+            "test_name": "Anti Varicella Zoster Antibody IgG",
+            "sample_instruction": "2 ml of CSF",
+            "clinical_use": "Chiken Pox, Shingles (Includes total IgG, Specific IgG from CSF as well as serum and Quotient will be repoted )",
+            "reporting_time": "After 7 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "82",
+            "test_name": "Anti Varicella Zoster Antibody IgM",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, IgG is selected by default\r\nChiken Pox, Shingles",
+            "reporting_time": "After 3 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "83",
+            "test_name": "Anti- Brucella IgG Antibodies",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "84",
+            "test_name": "Anti- Brucella IgG/IgM Antibodies",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "85",
+            "test_name": "Anti- Brucella IgM Antibodies",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "86",
+            "test_name": "Anti CCP",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Rheumatoid Arthritis",
+            "reporting_time": "Same day",
+            "price": "1,100"
+        },
+        {
+            "ID": "87",
+            "test_name": "Anti- Deamidated Gliadin Peptide IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Associated with Coeliac Disease",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "88",
+            "test_name": "Anti- Echinococcus",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "89",
+            "test_name": "Anti- HBc IgM",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "90",
+            "test_name": "Anti - Liver Kidney Microsome - 1 \r\nAntibody (Anti LKM -1)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "End point dilution for Positive Cases is Included if requested\r\nin Writing sebsequently",
+            "reporting_time": "After 3 days",
+            "price": "1,500"
+        },
+        {
+            "ID": "91",
+            "test_name": "Antistreptolysin O",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Exposer to Strep. Pyogens ",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "92",
+            "test_name": " Apolipoprotein A/B Ratio",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "3 - 4 days",
+            "price": "1,100"
+        },
+        {
+            "ID": "93",
+            "test_name": "Apolipoprotein A1",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "3 - 4 days",
+            "price": "500"
+        },
+        {
+            "ID": "94",
+            "test_name": "Apolipoprotein B",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "3 - 4 days",
+            "price": "500"
+        },
+        {
+            "ID": "95",
+            "test_name": "Arsenic Urine Blood",
+            "sample_instruction": "3 ml of EDTA whole blood",
+            "clinical_use": "Toxicity to Arsenic",
+            "reporting_time": "5 - 7 days",
+            "price": "2,500"
+        },
+        {
+            "ID": "96",
+            "test_name": "Arsenic Urine 24 H",
+            "sample_instruction": "3 ml of EDTA whole blood",
+            "clinical_use": "Mention 24 hrs urine. No preservatives",
+            "reporting_time": "5 - 7 days",
+            "price": "2,500"
+        },
+        {
+            "ID": "97",
+            "test_name": "Ascitic Fluid For Pyogenic Culture",
+            "sample_instruction": "2 - 5 ml sterile fluid in sterile container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "98",
+            "test_name": "Ascitic Fluid Cell Count Biochemistry",
+            "sample_instruction": "2 ml Ascitic Fluid in Sterile tube",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "99",
+            "test_name": "Aspartate Amino Transferase (SGOT-AST",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "100",
+            "test_name": "Aspergillus Antibody Test",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "Useful in Diagnosis of Insavive Aspergillosis",
+            "reporting_time": "3 - 4 days",
+            "price": "1,200"
+        },
+        {
+            "ID": "101",
+            "test_name": "B2 Microglobulin of Urine",
+            "sample_instruction": "15 ml of Spot Urine",
+            "clinical_use": "Increased in Patient with various Malignant and \r\nImmunological Disorder",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "102",
+            "test_name": "BCR - ABL (OS)",
+            "sample_instruction": "Sodium Heparin Vacutainer (2ml) ",
+            "clinical_use": "CML, AML, ALL",
+            "reporting_time": "5 - 7 days",
+            "price": "6,500"
+        },
+        {
+            "ID": "103",
+            "test_name": "Bence - Jones Proteins",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "104",
+            "test_name": "Beta - 2 Microglobulin",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "Increased in Patient with various Malignant and \r\nImmunological Disorder",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "105",
+            "test_name": "Beta HCG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Mention LMP, USG Findings or Other Clinical History",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "106",
+            "test_name": "Beta - 2 Glycoprotein 1 IgA",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, both Antibodies selected by default\r\n",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "107",
+            "test_name": "Beta - 2 Glycoprotein 1 IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, both Antibodies selected by default\r\n",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "108",
+            "test_name": "Beta - 2 Glycoprotein 1 IgM",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "If Antibody type is not specified, both Antibodies selected by default\r\n",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "109",
+            "test_name": "Bicarbonates",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "110",
+            "test_name": "Bile Salts And Pigments",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "111",
+            "test_name": "Bilirubin Total and Direct",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "112",
+            "test_name": "Biopsy Routine",
+            "sample_instruction": "Tissue in 10% Formalin",
+            "clinical_use": "Demographic Data, Operation Site, Clinical Details and \r\nRelevant Investigation must Accompany Specimen",
+            "reporting_time": "4 - 6 days",
+            "price": "750"
+        },
+        {
+            "ID": "113",
+            "test_name": "Bleeding And Coagulation time Routine",
+            "clinical_use": "For walk in Patients",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "114",
+            "test_name": "Blood Grouping A.B.O and Rh Type",
+            "sample_instruction": "Column agglutination technology",
+            "clinical_use": "Includes Forward And Reserve Grouping",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "115",
+            "test_name": "Blood Lactate",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Test may be Orderedin case of Heart Attack, Congestive Heart\r\nFaliure, Renal Faliure, Uncontrolled Diabetes Etc",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "116",
+            "test_name": "Blood Osmolality",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Used for testing Renal Concentrating Ability And Identifying\r\nHyper or Hyponatreaemia",
+            "reporting_time": "Same day",
+            "price": "800"
+        },
+        {
+            "ID": "117",
+            "test_name": "Blood Urea Nitrogen",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "118",
+            "test_name": "Body Fluid for Mycobacterium \r\nTubercluosis",
+            "sample_instruction": "Sterile Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "119",
+            "test_name": "Body Health Profile 1",
+            "sample_instruction": "3 ml of EDTA whole blood, 5 ml of Serum\r\n2 ml of Fluoride Plasma, 20 ml of Spot \r\nUrine",
+            "clinical_use": "CBC, Urine Rt, LFT,Lipid Profile, RFT, Thyroid Panel 1, Vitamin B12Vitamin D",
+            "reporting_time": "Same day",
+            "price": "3,500"
+        },
+        {
+            "ID": "120",
+            "test_name": "Body Health Profile 2",
+            "sample_instruction": "3 ml of EDTA whole blood, 5 ml of Serum\r\n2 ml of Fluoride Plasma, 20 ml of Spot \r\nUrine",
+            "clinical_use": "CBC, Urine Rt, LFT,Lipid Profile, RFT, Thyroid ",
+            "reporting_time": "Same day",
+            "price": "1,900"
+        },
+        {
+            "ID": "121",
+            "test_name": "BOH Profile- Mini Bad Obstetric History",
+            "sample_instruction": "3 ml of EDTA whole blood, 5 ml of serum\r\n4 ml of Heparin whole blood (Husband\r\nand wife), 3 ml of Citrate Plasma",
+            "clinical_use": "ANA, APA- IgG/ IgM, ACA IgG/ IgM, LAC, TSH, TORCH-13",
+            "reporting_time": "Same day",
+            "price": "5,000"
+        },
+        {
+            "ID": "122",
+            "test_name": "BOH Profile- Maxi Bad Obstetric History",
+            "sample_instruction": "3 ml of EDTA whole blood, 5 ml of serum\r\n4 ml of Heparin whole blood (Husband\r\nand wife), 3 ml of Citrate Plasma",
+            "clinical_use": "ANA, APA- IgG/ IgM, ACA IgG/ IgM, LAC, TSH, TORCH-13\r\nKaryotyping of Couple",
+            "reporting_time": "12 - 15 days",
+            "price": "10,000"
+        },
+        {
+            "ID": "123",
+            "test_name": "Bone Marrow Aspiration",
+            "sample_instruction": "2 Stained, 2 unstained fixed BM smears\r\n and 2 Peipheral  smears requested\r\n",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "124",
+            "test_name": "Bone Marrow Aspiration (Procedure \r\nOnly)",
+            "clinical_use": "Walk in Patients Only",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "125",
+            "test_name": "Bone Marrow Slide",
+            "sample_instruction": "2 Stained, 2 unstained fixed BM smears\r\n and 2 Peipheral  smears requested\r\n",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "2 - 3 days",
+            "price": "400"
+        },
+        {
+            "ID": "126",
+            "test_name": "Bone Marrow Smear",
+            "sample_instruction": "2 Stained, 2 unstained fixed BM smears\r\n and 2 Peipheral  smears requested\r\n",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "2 - 3 days",
+            "price": "400"
+        },
+        {
+            "ID": "127",
+            "test_name": "Bone Profile",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "Calcium- total and Ionised , Phosphorus, Alkaline Phosphatase,\r\nProteins, Uric Acid",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "128",
+            "test_name": "Bronchial Fluid For Pyogenic Culture",
+            "sample_instruction": "2 - 5 ml body fluid Sample in Sterile\r\nContainer",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "129",
+            "test_name": "BUN/Creatinine Ratio",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "130",
+            "test_name": "C Peptide (Fasting)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Fasting Required, Labile analyte. History Required",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "131",
+            "test_name": "C Peptide (Post Prandial)",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "132",
+            "test_name": "C Reactive Protein",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Measure of Low Level Inflammation",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "133",
+            "test_name": "CA 15.3",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Breast Cancer Marker",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "134",
+            "test_name": "CA 19.9",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Pancreatic Marker",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "135",
+            "test_name": "CA - 125",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Ovarian Cancer Marker",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "136",
+            "test_name": "CA - 72.4",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "Gastric Cancer Marker",
+            "reporting_time": "5 - 7 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "137",
+            "test_name": "Calcitonin",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Labile analyte. ",
+            "reporting_time": "Same day",
+            "price": "2,000"
+        },
+        {
+            "ID": "138",
+            "test_name": "Calcium Total",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Repeate Measurement Recommended if Values are Outside the\r\nReferance Range",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "139",
+            "test_name": "C - ANCA",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "140",
+            "test_name": "Cancer marker profile Brain and Pituitary",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "CEA, Prolactin",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "141",
+            "test_name": "Cancer marker profile Breast",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "CA 15.3, CEA",
+            "reporting_time": "Same day",
+            "price": "1,500"
+        },
+        {
+            "ID": "142",
+            "test_name": "Cancer marker profile Colorectal",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "CEA,CA19.9",
+            "reporting_time": "Same day",
+            "price": "1,500"
+        },
+        {
+            "ID": "143",
+            "test_name": "Cancer marker profile Gall Bladder",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "CA 19.9,CEA",
+            "reporting_time": "Same day",
+            "price": "1,500"
+        },
+        {
+            "ID": "144",
+            "test_name": "Cancer marker Profile Liver 1",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "AFP, CEA, HCG",
+            "reporting_time": "Same day",
+            "price": "1,350"
+        },
+        {
+            "ID": "145",
+            "test_name": "Cancer marker Profile Lung - SCLC",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "NSE, CEA, Chromogranin A",
+            "reporting_time": "Same day",
+            "price": "4,500"
+        },
+        {
+            "ID": "146",
+            "test_name": "Cancer Marker profile Neuroendocrine\r\ntumors",
+            "sample_instruction": "3 ml of Serum and 3 ml of EDTA Plasma",
+            "clinical_use": "Chromogranin A, NSE",
+            "reporting_time": "5 - 7 days",
+            "price": "7,500"
+        },
+        {
+            "ID": "147",
+            "test_name": "Cancer marker profile Ovarian - \r\nComprehensive",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "CA125, CEA, AFP, HCG",
+            "reporting_time": "Same day",
+            "price": "2,100"
+        },
+        {
+            "ID": "148",
+            "test_name": "Cancer marker Profile Pancreatic",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "CAE, CA19.9, Gastrin, Insulin",
+            "reporting_time": "Same day",
+            "price": "4,000"
+        },
+        {
+            "ID": "149",
+            "test_name": "Cancer marker profile Prostate",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "PSA, free PSA, Ratio and Acidic Phosphatase Total and Prostatic\r\nFraction",
+            "reporting_time": "Same day",
+            "price": "1,700"
+        },
+        {
+            "ID": "150",
+            "test_name": "Cancer marker profile Stomach",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "CEA, CA19.9, CA72.4",
+            "reporting_time": "3 - 4 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "151",
+            "test_name": "Cancer marker profile Testicular",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "HCG Beta, AFP",
+            "reporting_time": "Same day",
+            "price": "1,350"
+        },
+        {
+            "ID": "152",
+            "test_name": "Cancer Screen, Female",
+            "sample_instruction": "3 ml of EDTA whole blood, 5 ml of \r\nSerum, 1 thin Prep container",
+            "clinical_use": "Liver (AFP), Epethelial (CEA), Ovary (HCG, CA125), Pancreas\r\n (CA19.9 Breast (CA15.3), Thyroid (Calcitonin , thyroglobulin),\r\nProstate(PSA, fPSA) CBC for Leukemia",
+            "reporting_time": "5 - 7 days",
+            "price": "7,000"
+        },
+        {
+            "ID": "153",
+            "test_name": "Cancer Screen, male",
+            "sample_instruction": "3 ml of EDTA whole blood, 5 ml of \r\nSerum",
+            "clinical_use": "Liver (AFP), Epethelial (CEA), Pancreas\r\n (CA19.9) Breast (CA15.3), Thyroid (Calcitonin , thyroglobulin),\r\nProstate(PSA, fPSA) CBC for Leukemia",
+            "reporting_time": "3 - 4 days",
+            "price": "6,300"
+        },
+        {
+            "ID": "154",
+            "test_name": "Carbamezepine Tegretol",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Mention time of Drug Dose",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "155",
+            "test_name": "Carcinoembryogenic Antigen (CEA)",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "156",
+            "test_name": "Cardiac Troponin Qualitative",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Myocardial Infarction",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "157",
+            "test_name": "CD4 & CD8 Lymphocyte Count (OS)",
+            "sample_instruction": "3 ml WB - EDTA",
+            "reporting_time": "3 - 4 days",
+            "price": "1,500"
+        },
+        {
+            "ID": "158",
+            "test_name": "Ceruloplasmin",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Lowest Levels seen in Willson's Disease",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "159",
+            "test_name": "Chiken Gunya Test",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "160",
+            "test_name": "Chlamydia Antibidy (IgG)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Tubal Pregnancy, Pid and Infertility",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "161",
+            "test_name": "Chlamydia Antibidy (IgM)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Tubal Pregnancy, Pid and Infertility",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "162",
+            "test_name": "Chloride (Fluid)",
+            "sample_instruction": "2 ml fluid ",
+            "clinical_use": "Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "163",
+            "test_name": "Chlorides 24 hrs Excreation",
+            "sample_instruction": "10 ml of 24 hrs Urine",
+            "clinical_use": "Mention 24 Hrs Urine Volume",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "164",
+            "test_name": "Cholesterol HDL",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "165",
+            "test_name": "Cholesterol Total",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Increased levels Related to Increased Risk Of Cardiovascular \r\nDisease",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "166",
+            "test_name": "Chlorides ",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Used For checking Electroyte Balance",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "167",
+            "test_name": "Cholinesterase - A ",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "After 3 days",
+            "price": "100"
+        },
+        {
+            "ID": "168",
+            "test_name": "Chromogranin",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "3 - 5 days",
+            "price": "4,000"
+        },
+        {
+            "ID": "169",
+            "test_name": "Clot Retraction Time",
+            "sample_instruction": "Clotting",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "170",
+            "test_name": "Complement - 3",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "SLE, Endocarditis and DIC",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "171",
+            "test_name": "Complement - 4",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "SLE, Immunocomplex Disease and Heriditory Angioedema",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "172",
+            "test_name": "Complete Blood Count",
+            "sample_instruction": "3 ml of EDTA blood and Direct \r\nSmear-2nos",
+            "clinical_use": "Mention Age and Sex",
+            "reporting_time": "Same day",
+            "price": "220"
+        },
+        {
+            "ID": "173",
+            "test_name": "Complete Blood Count (MINI)",
+            "sample_instruction": "3 ml of EDTA blood and Direct \r\nSmear-2nos",
+            "clinical_use": "Mention Age and Sex",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "174",
+            "test_name": "Conjuctival Swab for Gram Stain",
+            "sample_instruction": "Conjuctival Swab or 2 Smear Slide",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "175",
+            "test_name": "Coomb's Test Direct",
+            "sample_instruction": "2 ml WB - EDTA",
+            "clinical_use": "Autoimmune Hemolytic Anemia",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "176",
+            "test_name": "Coomb's Test InDirect",
+            "sample_instruction": "3 ml of Serum",
+            "clinical_use": "Hemolytic Disease of Newborn",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "177",
+            "test_name": "Cortisol (4 PM)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Mention Time of Collection and Medication History",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "178",
+            "test_name": "Cortisol (8 AM)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Mention Time of Collection and Medication History",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "179",
+            "test_name": "Cortisol (Urine 24 hrs)",
+            "sample_instruction": "10 ml Aliquot of 24 hrs Urine. Use 10 Gm \r\nof Boric Acid",
+            "clinical_use": "Mention 24 hrs Urine Volume. Boric Acid Preservative",
+            "reporting_time": "Next Day",
+            "price": "600"
+        },
+        {
+            "ID": "180",
+            "test_name": "Creatine Kinase (CK)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Myocardial Diseases",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "181",
+            "test_name": "Creatine Kinase MB Cardiac Fraction\r\nCKMB",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Myocardial Diseases Labile Analyte. CKMB",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "182",
+            "test_name": "Creatinine",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Measure of Renal Function",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "183",
+            "test_name": "Creatinine Clearance",
+            "sample_instruction": "3 ml of serum and 24 hrs Urine \r\nNo Preservative",
+            "clinical_use": "24 hrs Urine Volume, Age (Date of Birth Preferred) Height \r\nWeight required",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "184",
+            "test_name": "CSF Cell Count Biochemistry",
+            "sample_instruction": "2 ml of CSF or Body Fluid EDTA\r\nContainer",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "185",
+            "test_name": "CSF for Gram Stain",
+            "sample_instruction": "2 ml of CSF in Sterile Container",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "186",
+            "test_name": "CSF Protein",
+            "sample_instruction": "2 ml os CSF",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "187",
+            "test_name": "Culture (Aerobic) & Susceptibility,\r\nBody Fluids (all except CSF)",
+            "sample_instruction": "2 - 5 ml body fluid Sample in Sterile\r\nContainer",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "188",
+            "test_name": "Culture Bactec Aerobic",
+            "sample_instruction": "8-10 ml of Body Fluid Seperately in 2\r\nBactec Plus Aerobic Bottles, 1-3 ml of\r\nBody Fluids in 2 Bactec Peds Plus each\r\nfor Pediatric Patient",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 5 days",
+            "price": "900"
+        },
+        {
+            "ID": "189",
+            "test_name": "Culture Bactec blood",
+            "sample_instruction": "8-10 ml of Body Fluid Seperately in 2\r\nBactec Plus Aerobic Bottles, 1-3 ml of\r\nBody Fluids in 2 Bactec Peds Plus each\r\nfor Pediatric Patient",
+            "clinical_use": "Septicaemia, Meningitis, Ascitis etc",
+            "reporting_time": "3 - 5 days",
+            "price": "900"
+        },
+        {
+            "ID": "190",
+            "test_name": "Culture For Fungi",
+            "clinical_use": "Clinical History is Required",
+            "reporting_time": "20th day",
+            "price": "500"
+        },
+        {
+            "ID": "191",
+            "test_name": "Culture for Pygnc. Org. Routine",
+            "sample_instruction": "Any sample",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "192",
+            "test_name": "Culture for Pygnc. Org. of Septum",
+            "sample_instruction": "Sputum in Sterile",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "193",
+            "test_name": "Culture for Pygnc. Org. Pus",
+            "sample_instruction": "Pus in Sterile Container/ Amies \r\nTransport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "194",
+            "test_name": "Culture for Pygnc. Org. of E.T Secreation",
+            "sample_instruction": "Respiratory Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "195",
+            "test_name": "Culture for Pygnc. Org. of Cervical\r\nSwab",
+            "sample_instruction": "Cervical or Vaginal Discharge or Swab\r\nin Sterile Container  ",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "196",
+            "test_name": "Culture for Pygnc. Org. of CSF\r\n",
+            "sample_instruction": "2 ml CSF Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "197",
+            "test_name": "Culture for Pygnc. Org. of Semen Fluid\r\n",
+            "sample_instruction": "Semen Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "198",
+            "test_name": "Culture for Pygnc. Org. of Swab\r\n",
+            "sample_instruction": "Swab in Sterile Container/ Amies \r\nTransport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "199",
+            "test_name": "Culture for Pygnc. Org. of Tip\r\n",
+            "sample_instruction": "TIP in Sterile Container",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "200",
+            "test_name": "Culture for Pygnc. Org. of Vaginal Swab\r\n",
+            "sample_instruction": "Cervical or Vaginal Discharge or Swab\r\nin Sterile Container",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "201",
+            "test_name": "Culture for Tuberculosis By Micro MGIT",
+            "sample_instruction": "Any specimen",
+            "reporting_time": "42 days",
+            "price": "1,100"
+        },
+        {
+            "ID": "202",
+            "test_name": "Culture Plate",
+            "reporting_time": "3 - 4 days",
+            "price": "150"
+        },
+        {
+            "ID": "203",
+            "test_name": "Cyclosporine",
+            "sample_instruction": "3 ml WB - EDTA",
+            "clinical_use": "Immunosuppresive Drug",
+            "reporting_time": "Same day",
+            "price": "3,500"
+        },
+        {
+            "ID": "204",
+            "test_name": "Cysticercosis Antibody IgG",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "After 3 days",
+            "price": "1,200"
+        },
+        {
+            "ID": "205",
+            "test_name": "Cytomegalo Virus Antibody IgG",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "206",
+            "test_name": "Cytomegalo Virus Antibody IgG",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "207",
+            "test_name": "Cytomegalo Virus Antibody IgM",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "208",
+            "test_name": "Cytomegalo Virus Antibody IgM",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "209",
+            "test_name": "D - Dimer Quantitive",
+            "sample_instruction": "Plasma - Cit",
+            "clinical_use": "Plasma should be Platelet poor",
+            "reporting_time": "Same day",
+            "price": "1,150"
+        },
+        {
+            "ID": "210",
+            "test_name": "Dengue Fever IgG & IgM Antibody Test",
+            "sample_instruction": "2 ml serum ",
+            "clinical_use": "For Dengue Fever",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "211",
+            "test_name": "Dengue Fever Test (NS1)",
+            "sample_instruction": "2 ml WB - EDTA",
+            "clinical_use": "For Dengue Fever Early Detection",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "212",
+            "test_name": "Dengue IgG, EIA, Serum",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "213",
+            "test_name": "Dengue NS1 Antigen Card",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "214",
+            "test_name": "Dengue NS1 Antigen ,EIA, Serum",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "215",
+            "test_name": "Dheas",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention Age and Sex",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "216",
+            "test_name": "Diabetes Monitoring Profile, Maxi",
+            "sample_instruction": "3 ml of EDTA whole Blood, 3ml of Serum \r\n2 ml of Fluoride Plasma, 10 ml of Spot\r\nUrine",
+            "clinical_use": "CBC,FBS, PPBS, Cholesterol, Triglycerides, Creatinine, \r\nElectrolytes, Urine Rt, Microalbumin/ Creatinine Ratio, Insulin\r\nC- Peptide, HbA1C",
+            "reporting_time": "Same day",
+            "price": "2,900"
+        },
+        {
+            "ID": "217",
+            "test_name": "Diabetes Monitoring Profile, Mini",
+            "sample_instruction": "3 ml of EDTA whole Blood, 3ml of Serum \r\n2 ml of Fluoride Plasma, 10 ml of Spot\r\nUrine",
+            "clinical_use": "FBS, Cholesterol, HbA1C, Microalbumin/ Creatinine Ratio",
+            "reporting_time": "Same day",
+            "price": "450"
+        },
+        {
+            "ID": "218",
+            "test_name": "Differential Lucocyte Count",
+            "sample_instruction": "3 ml EDTA Blood and Direct Smear- 2 nos",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "219",
+            "test_name": "Digital Blood Pressure Checkup",
+            "clinical_use": "For walk in Patients",
+            "reporting_time": "Same day",
+            "price": "20"
+        },
+        {
+            "ID": "220",
+            "test_name": "Digoxin (OS)",
+            "sample_instruction": "2 ml serum ",
+            "clinical_use": "Mention time of Drug Dose",
+            "reporting_time": "After 3 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "221",
+            "test_name": "Double Marker (OS)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention LMP, USG Findings or Other Clinical History. PAPPa & \r\nFree HCG. Age wit DOB, Recommended For 8 to 13.6 Weeks",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "222",
+            "test_name": "Double ST . DNA",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Detected in SLE and Patient with Mixed Connective Tissue\r\n Disease",
+            "reporting_time": "Same day",
+            "price": "550"
+        },
+        {
+            "ID": "223",
+            "test_name": "Ear Swab for Pyogenic Culture",
+            "sample_instruction": "Ear Sample In Sterile Container/ Amies \r\nTransport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "224",
+            "test_name": "EBV VCA IgG",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Infectious Mononucleosis",
+            "reporting_time": "3 - 4 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "225",
+            "test_name": "EBV VCA IgM",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Infectious Mononucleosis",
+            "reporting_time": "3 - 4 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "226",
+            "test_name": "Electrolytes Panel",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Used For checking Electroyte Balance",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "227",
+            "test_name": "Electrophorosis Proteins 24 hrs Urine",
+            "sample_instruction": "10 ml of 24 hrs of Urine",
+            "clinical_use": "Mention 24 Hrs Urine Volume",
+            "reporting_time": "After 3 days",
+            "price": "850"
+        },
+        {
+            "ID": "228",
+            "test_name": "Electrophorosis Serum Proteins",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Multiple Myeloma, Macroglobulinemia",
+            "reporting_time": "After 3 days",
+            "price": "850"
+        },
+        {
+            "ID": "229",
+            "test_name": "Endometrial Aspiration Cytology",
+            "sample_instruction": "Fixed Smears",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "2 - 3 days",
+            "price": "400"
+        },
+        {
+            "ID": "230",
+            "test_name": "Endomysium - IgA Antibodies",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "231",
+            "test_name": "ER - PR",
+            "sample_instruction": "Tissue / Paraffin Block of Tumor",
+            "reporting_time": "5 - 7 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "232",
+            "test_name": "ER - PR & Her2Neu",
+            "sample_instruction": "Tissue / Paraffin Block of Tumor",
+            "reporting_time": "5 - 7 days",
+            "price": "4,000"
+        },
+        {
+            "ID": "233",
+            "test_name": "Erythrocyte Sedimentation Rate",
+            "sample_instruction": "3 ml EDTA Blood and Direct Smear- 2 nos",
+            "clinical_use": "Prognostic Marker",
+            "reporting_time": "Same day",
+            "price": "50"
+        },
+        {
+            "ID": "234",
+            "test_name": "Erythropoietin",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Decreased Levels in Renal Disease, Cancers, HIV, Arthiritis\r\nand Colitis",
+            "reporting_time": "3 - 4 days",
+            "price": "1,800"
+        },
+        {
+            "ID": "235",
+            "test_name": "Estimated Glomerular Filteration Rate\r\neGFR",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "236",
+            "test_name": "Estradiol",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention Age,LMP, Rx History",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "237",
+            "test_name": "Estriol (E3)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention Age and LMP",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "238",
+            "test_name": "Eye Swab for Pyogenic Culture",
+            "sample_instruction": "Eye Sample In Sterile Container/ Amies \r\nTansport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "239",
+            "test_name": "Factor IX (OS)",
+            "sample_instruction": "2 ml of Platelet Poor Citrated Plasma",
+            "clinical_use": "Anti Haemophilia B Citrated plasma",
+            "reporting_time": "3 - 5 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "240",
+            "test_name": "Factor V Leiden Activity Test\r\n (Screening test)",
+            "sample_instruction": "Plasma - Cit",
+            "reporting_time": "3 - 4 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "241",
+            "test_name": "Factor VIII (OS)",
+            "sample_instruction": "2 ml of Platelet Poor Citrated Plasma",
+            "reporting_time": "3 - 4 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "242",
+            "test_name": "Factor X Assay (Activity)",
+            "sample_instruction": "Plasma - Cit",
+            "reporting_time": "3 - 4 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "243",
+            "test_name": "Factor XI Assay (Activity)",
+            "sample_instruction": "Plasma - Cit",
+            "reporting_time": "3 - 4 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "244",
+            "test_name": "Fat Globulin",
+            "sample_instruction": "Stool in Sterile Container",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "245",
+            "test_name": "Fat Qualitative",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "246",
+            "test_name": "Ferritin Quantitive",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "247",
+            "test_name": "Fibrinogen degradation Products (FDP) ",
+            "sample_instruction": "Plasma - Cit",
+            "reporting_time": "Same day",
+            "price": "1,150"
+        },
+        {
+            "ID": "248",
+            "test_name": "Fibrinogen Quantitative /\r\n Semiquantitative",
+            "sample_instruction": "Plasma - Cit",
+            "reporting_time": "Same day",
+            "price": "1,150"
+        },
+        {
+            "ID": "249",
+            "test_name": "Filaria Antibody Detection",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "3 - 4 days",
+            "price": "1,200"
+        },
+        {
+            "ID": "250",
+            "test_name": "Fine needle Aspiration Cytology\r\n(Specify)",
+            "sample_instruction": "Fixed Smears",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "2 - 3 days",
+            "price": "400"
+        },
+        {
+            "ID": "251",
+            "test_name": "Fluid for cell count Biochemistry",
+            "sample_instruction": "2 ml body fluid in EDTA vail",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "252",
+            "test_name": "Fuid for Protien",
+            "sample_instruction": "2 ml body Fluid in Plane vail",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "253",
+            "test_name": "Fluid for Pyogenic Culture",
+            "sample_instruction": "2 ml fluid Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "254",
+            "test_name": "FNAC Slide",
+            "sample_instruction": "Fixed Smears",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "2 - 3 days",
+            "price": "400"
+        },
+        {
+            "ID": "255",
+            "test_name": "Foetal Haemoglobin Assay",
+            "sample_instruction": "3 ml EDTA Blood and Direct Smear- 2 nos",
+            "clinical_use": "Age and Transfusion H/O requested",
+            "reporting_time": "After 3 days",
+            "price": "950"
+        },
+        {
+            "ID": "256",
+            "test_name": "Folic Acid",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "850"
+        },
+        {
+            "ID": "257",
+            "test_name": "Follicle Stimulating Harmone",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention Age/LMP",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "258",
+            "test_name": "Free Androgen Index",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Testosterone - Total, Testosterone-Free, SHBG, DHT, Free \r\nAndrogen Index",
+            "reporting_time": "Same day",
+            "price": "2,200"
+        },
+        {
+            "ID": "259",
+            "test_name": "Free HCG",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "3 - 4 days",
+            "price": "800"
+        },
+        {
+            "ID": "260",
+            "test_name": "Free Kappa Lambda Chain Ratio",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "3 - 4 days",
+            "price": "5,500"
+        },
+        {
+            "ID": "261",
+            "test_name": "Free Thyroid Profile",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "262",
+            "test_name": "FT4 and TSH (Serum)",
+            "sample_instruction": "2 ml of serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "263",
+            "test_name": "Gene Expert - TB",
+            "sample_instruction": "Any specimen except Blood",
+            "reporting_time": "3 - 5 days",
+            "price": "3,000"
+        },
+        {
+            "ID": "264",
+            "test_name": "Glucose 6 Phosphatase Dehydrogenase",
+            "sample_instruction": "2 ml WB - EDTA",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "265",
+            "test_name": "Glucose Fasting",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "266",
+            "test_name": "Glucose Fasting and PP 2 hrs",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "267",
+            "test_name": "Glucose PG 1 Hrs",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "268",
+            "test_name": "Glucose Post Glucose 1/2 Hrs",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "269",
+            "test_name": "Glucose Post Glucose 1 & 1/2 Hrs",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "270",
+            "test_name": "Glucose Post Glucose 2 Hrs",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "271",
+            "test_name": "Glucose Post Glucose 3 Hrs",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "272",
+            "test_name": "Glucose Post Prandial 2 Hrs",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "273",
+            "test_name": "Glucose Random",
+            "sample_instruction": "2 ml of Fluoride Plasma",
+            "clinical_use": "Diabetes Mellitus",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "274",
+            "test_name": "Glucose Tolerence Test 2 Sample",
+            "sample_instruction": "0 hrs, 2 hr - 2 ml Fluoride Plasma",
+            "clinical_use": "2 Samples (As per ADA Guidelnes Only Two Samples are\r\n Recommended for GTC i.e Fasting and 2 hrs Post Oral\r\nGlucose)",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "275",
+            "test_name": "Glucose Tolerence Test 3 Sample",
+            "sample_instruction": "0 hrs, 2 hr - 2 ml Fluoride Plasma",
+            "clinical_use": "2 Samples (As per ADA Guidelnes Only Two Samples are\r\n Recommended for GTC i.e Fasting and 2 hrs Post Oral\r\nGlucose)",
+            "reporting_time": "Same day",
+            "price": "220"
+        },
+        {
+            "ID": "276",
+            "test_name": "Glucose Tolerence Test 5 Sample",
+            "sample_instruction": "0 min, 30, 60, 120, 150 min Fluoride\r\n Plasma",
+            "clinical_use": "5 Samples (As per ADA Guidelnes Only Two Samples are\r\n Recommended for GTC i.e Fasting and 2 hrs Post Oral\r\nGlucose)",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "277",
+            "test_name": "Glutamic Acid Decarboxylase (GAD)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Useful For diagnosing Insulin Dependent Diabetes Mellitus",
+            "reporting_time": "After 3 days",
+            "price": "4,000"
+        },
+        {
+            "ID": "278",
+            "test_name": "H. Pylori Rapid Test (IgA, IgG, IgM\r\nAntibodies",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "800"
+        },
+        {
+            "ID": "279",
+            "test_name": "Haemoglobin",
+            "sample_instruction": "3 ml EDTA Blood and Direct Smear- 2 nos",
+            "reporting_time": "Same day",
+            "price": "60"
+        },
+        {
+            "ID": "280",
+            "test_name": "Haemoglobin Electrophoresis",
+            "sample_instruction": "3 ml EDTA Blood and Direct Smear- 2 nos",
+            "clinical_use": "Age and Transfusion H/O requested",
+            "reporting_time": "Same day",
+            "price": "950"
+        },
+        {
+            "ID": "281",
+            "test_name": "Haemoglobin Glycosylated Blood \r\n(HBA1C)",
+            "sample_instruction": "2 ml WB - EDTA",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "282",
+            "test_name": "Hanging Drop Prepration Of stool",
+            "sample_instruction": "Stool in Sterile Container",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "283",
+            "test_name": "HBV Genotyping",
+            "sample_instruction": "Peripheral Blood",
+            "clinical_use": "EDTA Vacutainer ( 3 ml X 2)",
+            "reporting_time": "10 - 15 d",
+            "price": "8,500"
+        },
+        {
+            "ID": "284",
+            "test_name": "HBVRT Qualitative ",
+            "sample_instruction": "Peripheral Blood/Plasma/Serum/Tissue/\r\nBody Fluids/Amniotic Fluid/ Cervical \r\nSwab",
+            "clinical_use": "EDTA Vacutainer - 3 ml Peripheral Blood, Plasma, Serum; Sterile\r\n Container with Normal Saline - Tissue; Sterile Container - \r\nBody Fluids and Amniotic Fluid; Sterile Swab - Cervical \r\nMaterial",
+            "reporting_time": "After 5 days",
+            "price": "2,500"
+        },
+        {
+            "ID": "285",
+            "test_name": "HBVTAQMAN",
+            "sample_instruction": "Peripheral Blood",
+            "clinical_use": "EDTA Vacutainer ( 3 ml X 2)",
+            "reporting_time": "3 - 5 days",
+            "price": "7,000"
+        },
+        {
+            "ID": "286",
+            "test_name": "Hepatitis A (HAV) Antibody IgG",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "If Antibody Type Is Not Mentioned IgM is Selected By Default",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "287",
+            "test_name": "Hepatitis A Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody Type Is Not Mentioned IgG is Selected By Default",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "288",
+            "test_name": "Hepatitis B Core Antibody (Total)",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "289",
+            "test_name": "Hepatitis B ENV Antibody",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "290",
+            "test_name": "Hepatitis B ENV Antigen",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "291",
+            "test_name": "Hepatitis B Follow Up Profile (HBsAg and    \r\nHBsAb)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "292",
+            "test_name": "Hepatitis B Surface Antibody ",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "293",
+            "test_name": "Hepatitis B Surface Antigen Australia \r\nAntigen",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "294",
+            "test_name": "Hepatitis B Virus DNA, Quantitative",
+            "sample_instruction": "Peripheral Blood/Plasma/Serum/Tissue/\r\nBody Fluids/Amniotic Fluid/ Cervical \r\nSwab",
+            "clinical_use": "EDTA Vacutainer - 3 ml Peripheral Blood, Plasma, Serum; Sterile\r\n Container with Normal Saline - Tissue; Sterile Container - \r\nBody Fluids and Amniotic Fluid; Sterile Swab - Cervical \r\nMaterial",
+            "reporting_time": "After 5 days",
+            "price": "6,000"
+        },
+        {
+            "ID": "295",
+            "test_name": "Hepatitis C (HCV) Antibody IgM",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Positive Result Indicates Infection",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "296",
+            "test_name": "Hepatitis C (HCV) Antibody Total",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "297",
+            "test_name": "Hepatitis C Virus RNA Detector \r\nQuantitative and Genotyping",
+            "sample_instruction": "EDTA Vacutainer (3ml)",
+            "reporting_time": "7 - 10 days",
+            "price": "13,000"
+        },
+        {
+            "ID": "298",
+            "test_name": "Hepatitis C Virus RNA Quantitative (OS)",
+            "clinical_use": "EDTA Vacutainer - 3 ml Peripheral Blood, Plasma, Serum; Sterile\r\n Container with Normal Saline - Tissue; Sterile Container - \r\nBody Fluids and Amniotic Fluid; Sterile Swab - Cervical \r\nMaterial",
+            "reporting_time": "5 - 7 days",
+            "price": "8,000"
+        },
+        {
+            "ID": "299",
+            "test_name": "Hepatitis E Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Antibody Usually Detected one to Four weeks Post Infection",
+            "reporting_time": "Same day",
+            "price": "750"
+        },
+        {
+            "ID": "300",
+            "test_name": "Hepatoglobin",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "3 - 4 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "301",
+            "test_name": "Herpes 1 Antibody IgG",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgG is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "302",
+            "test_name": "Herpes 1 Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgG is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "303",
+            "test_name": "Herpes 1&2 Antibody IgG ",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgM is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "304",
+            "test_name": "Herpes 1&2 Antibody IgG ",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgG is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "305",
+            "test_name": "Herpes 1&2 Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgG is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "306",
+            "test_name": "Herpes 1&2 Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgM is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "307",
+            "test_name": "Herpes Simplex Virus 2 Antibody IgG",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgM is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "308",
+            "test_name": "Herpes Simplex Virus 2 Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "If Antibody type Is Not Specified IgM is Selected by Default ",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "309",
+            "test_name": "Herpes Simplex Virus DNA Detector (OS)",
+            "clinical_use": "EDTA Vacutainer - 3 ml Peripheral Blood, Plasma, Serum; Sterile\r\n Container with Normal Saline - Tissue; Sterile Container - \r\nBody Fluids and Amniotic Fluid; Sterile Swab - Cervical \r\nMaterial",
+            "reporting_time": "5 - 7 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "310",
+            "test_name": "HEV (Hepatitis E Virus) - IgG",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "After 3 days",
+            "price": "800"
+        },
+        {
+            "ID": "311",
+            "test_name": "HIV AG/AB Combo",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Screening Test for Hiv infection. Positive is Checked by 3 \r\nMethods as Per NACO",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "312",
+            "test_name": "HIV for Western Blot",
+            "sample_instruction": "2 ml serum ",
+            "clinical_use": "Confirmatory Test for HIV",
+            "reporting_time": "Same day",
+            "price": "2,200"
+        },
+        {
+            "ID": "313",
+            "test_name": "HLA B - 27 OS",
+            "sample_instruction": "3 ml EDTA Blood ",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "314",
+            "test_name": "Homo Index \r\nInsulin/C Peptide Resistance Test",
+            "sample_instruction": "3 ml of serum and 2 ml of Fluoride\r\n Plasma. Fasting Sample",
+            "clinical_use": "C - Peptide is Recommended for Patients on Insulin Thearpy.\r\nInsulin and Glucose Test done. Calculator Used For Calculation \r\nof Beta Cell Function , insulin Sensivity and insulin Resistance\r\nIndex",
+            "reporting_time": "Same day",
+            "price": "950"
+        },
+        {
+            "ID": "315",
+            "test_name": "Homocysteine",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Cardiovascular Disease",
+            "reporting_time": "Same day",
+            "price": "1,400"
+        },
+        {
+            "ID": "316",
+            "test_name": "HsCRP",
+            "sample_instruction": "2 ml serum Measure of Low Level\r\n Inflammation",
+            "clinical_use": " Measure of Low Level\r\n Inflammation",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "317",
+            "test_name": "HSV - 1&2 (Herpes Simplex Virus - 1&2)\r\nDNA Dectection by Real tme PCR",
+            "sample_instruction": "EDTA Vacutainer (3ml),Plasma, Serum\r\n sterile container with normal Saline -\r\nTissues. Sterile comntainer- body fluid \r\nand Amniotic Fluid; sterile swab \r\ncervical Material ",
+            "clinical_use": "Encephalitis, meningitis and Neonatal infection",
+            "reporting_time": "After 7 days",
+            "price": "4,000"
+        },
+        {
+            "ID": "318",
+            "test_name": "Human Growth Hormone (Basal)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Fasting Sample at Rest",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "319",
+            "test_name": "Human Growth Hormone with Stimulation",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Clonidine (Arkamine) Dose: 300Ug or 5Ug/Kg of Body Weight.\r\nBasal growth Hormone Level, 30 min, 90 min & 120 min Growth \r\nHormone levels after Oral Arkamine clonidine tablet. Test \r\ndone as per Physicians Instructions, Consent form needed.\r\nTablet procured seperately.",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "320",
+            "test_name": "Immuno Cyto Marker(S) on demand",
+            "sample_instruction": "Tissue/ Paraffin Block of Tumor",
+            "reporting_time": "7 - 10 days",
+            "price": "7,500"
+        },
+        {
+            "ID": "321",
+            "test_name": "Immunofixation serum Protein",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Protein Electrophoresis, Quantification of Heavy and Light Chains and Immunofixation with Characterisation of M Band \r\nIgG, IgM, IgA, Beta 2 Microglobulin\r\n",
+            "reporting_time": "After 3 days",
+            "price": "6,500"
+        },
+        {
+            "ID": "322",
+            "test_name": "Immunoglobulin A (IgA)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Age and Sex Must be Mentioned",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "323",
+            "test_name": "Immunoglobulin E (IgE)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Age and Sex Must be Mentioned",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "324",
+            "test_name": "Immunoglobulin G (IgG)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Age and Sex Must be Mentioned",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "325",
+            "test_name": "Immunoglobulin M (IgM)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Age and Sex Must be Mentioned",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "326",
+            "test_name": "India Ink Prepration",
+            "sample_instruction": "2 ml CSF Sample in Sterile Container",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "327",
+            "test_name": "Infectious Mononucleosis/ Paul Bunnel Test ",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "EBV - VCA IgG & IgM, Early Antigen, EBNA, Avidity",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "328",
+            "test_name": "Insulin (Fasting)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Fasting Sample at Rest",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "329",
+            "test_name": "Insulin ( Post Prandial)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "330",
+            "test_name": "Insulin like Growth Factor BP3",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Mention Age and Sex. Fasting Required",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "331",
+            "test_name": "Insulin Random ",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Collect without Tourniquet. After collection send in unopened \r\ntube, do not transfer to Aliqoit time",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "332",
+            "test_name": "Insulin like Growth Factor - 1",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention Age and Sex. Fasting Required",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "333",
+            "test_name": "Ionic Calcium",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Collect without Tourniquet. After collection send in unopened \r\ntube, do not transfer to Aliqoit time",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "334",
+            "test_name": "Iron",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Iron Deficiency Causes Microcytic Anemia",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "335",
+            "test_name": "Iron and Iron-Binding Capacity Total",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Age, Transfusion History Required",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "336",
+            "test_name": "Islet Cell Antibody",
+            "sample_instruction": "2 ml serum ",
+            "reporting_time": "Same day",
+            "price": "4,000"
+        },
+        {
+            "ID": "337",
+            "test_name": "Issue Block",
+            "reporting_time": "2 - 3 days",
+            "price": "100"
+        },
+        {
+            "ID": "338",
+            "test_name": "Karyotyping (Blood) ",
+            "sample_instruction": "Sodium Heparin Vacutainer (2ml)",
+            "clinical_use": "A for Numerical and Structural Chromosomal Abnormalities",
+            "reporting_time": "7 - 10 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "339",
+            "test_name": "L.E. Cell Test",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "340",
+            "test_name": "Lactate Dehydrogenase",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "An Enzyme Found in Most Organs and Cells",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "341",
+            "test_name": "Lap Score (Leucocyte Alkaline\r\n Phosphate )",
+            "sample_instruction": "5 Peripheral blood Smears and\r\n EDTA blood History Requsted",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "342",
+            "test_name": "LDL Cholesterol",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "12 - 14 Hrs Fasting Required",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "343",
+            "test_name": "Lead Level",
+            "sample_instruction": "3 ml EDTA whole Blood",
+            "clinical_use": "Useful in Detecting Industrial, Dietary and Accidental Exposure,\r\nto Lead and Monitoring Detoxification Therapy ",
+            "reporting_time": "5 - 7 days",
+            "price": "2,200"
+        },
+        {
+            "ID": "344",
+            "test_name": "Lead Urine 24 Hrs",
+            "sample_instruction": "10 ml of 24 Hrs Urine in Dark Container\r\nNo Preservative",
+            "clinical_use": "Mention 24 Hrs Urine Volume",
+            "reporting_time": "5 - 7 days",
+            "price": "2,200"
+        },
+        {
+            "ID": "345",
+            "test_name": "Leptospira IgG + IgGm",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "After 3 days",
+            "price": "700"
+        },
+        {
+            "ID": "346",
+            "test_name": "Levitracetam level",
+            "sample_instruction": "3 ml of serum (without gel tube)",
+            "clinical_use": "Age, Geder, Drug Dosage,Height Weight,History is Mandatory.\r\nLevipil or Keppra levels",
+            "reporting_time": "7 - 10 days",
+            "price": "4,000"
+        },
+        {
+            "ID": "347",
+            "test_name": "Lipase",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Sensitive and Specific Marker of Pancreatic Injury",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "348",
+            "test_name": "Lipid Profile Panel",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Cholesterol- Total, HDL, Non HDL, LDL, VLDL and Triglycerides",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "349",
+            "test_name": "Lipid Screen, Serum (Cholesterol Total\r\nTriglycerides)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "350",
+            "test_name": "Lipoprotein - A (OS)",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "12 - 14 Hrs Fasting Required",
+            "reporting_time": "3 - 4 days",
+            "price": "800"
+        },
+        {
+            "ID": "351",
+            "test_name": "Liquid Pap Smear Cytology",
+            "sample_instruction": "Material in LBC Container",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "5 - 7 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "352",
+            "test_name": "Lithium",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Manic Depressive Disorders. Monitor therapy and Avoid \r\nToxicity. Time of Drug dose Needed.",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "353",
+            "test_name": "Liver Function Test (LFT)",
+            "sample_instruction": "2 ml serum ",
+            "clinical_use": "bilirubin - Total, Direct & Indirect, SGOT ,SGPT, Proteins,\r\nAlkaline Phosphatase",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "354",
+            "test_name": "Lupus Anticoagulant by DRVVT",
+            "sample_instruction": "Plasma - Cit",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "355",
+            "test_name": "Luteinizing Harmone",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention Age/LMP",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "356",
+            "test_name": "Magnesium",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "357",
+            "test_name": "Malarial Parasities Microscopic",
+            "sample_instruction": "5 Peripheral blood Smears and\r\n EDTA blood History Requsted",
+            "clinical_use": "Diagnosis of malaria",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "358",
+            "test_name": "Malignant Cytology",
+            "sample_instruction": "2 Stained , 2 unstained Fixed slide with Aspirate Sample",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "2 - 3 days",
+            "price": "400"
+        },
+        {
+            "ID": "359",
+            "test_name": "Mantoux Test",
+            "clinical_use": "For walk in Patients",
+            "reporting_time": "After 72 days",
+            "price": "150"
+        },
+        {
+            "ID": "360",
+            "test_name": "Microalbuminuria",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "361",
+            "test_name": "Microfilaria",
+            "sample_instruction": "Blood smear",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "362",
+            "test_name": "Molecular Karyotyping (Karyolite) POC",
+            "sample_instruction": "POC in Sterile Container with normal \r\nSaline with Few Drops of Antibiotics",
+            "clinical_use": "In Case of unexpected Delay store at 4 degree. Provide Clinical \r\ndetails  . Never add Formalin or Freeze",
+            "reporting_time": "7 - 10 days",
+            "price": "8,000"
+        },
+        {
+            "ID": "363",
+            "test_name": "Nasal Smear",
+            "sample_instruction": "2 smear slide",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "364",
+            "test_name": "Nestroft screening for Beta Thalassemia\r\nTrait",
+            "sample_instruction": "3 ml EDTA Blood",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "365",
+            "test_name": "Nicotine Level (Cotinine)",
+            "sample_instruction": "2 ml serum ",
+            "clinical_use": "use for Monitering Tabacco use",
+            "reporting_time": "Same day",
+            "price": "1,500"
+        },
+        {
+            "ID": "366",
+            "test_name": "NSE\r\nNeuron Specific Enolase",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Monitering Disease Progression & Therapy in Carcinoma of\r\n Lungs Thyroid Etc.",
+            "reporting_time": "5 - 7 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "367",
+            "test_name": "N - Terminal Pro- Type Natriuretic\r\n Peptide",
+            "sample_instruction": "3 ml of serum",
+            "clinical_use": "Left Ventricular Dysfunction",
+            "reporting_time": "3 - 5 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "368",
+            "test_name": "Obesity Profile",
+            "sample_instruction": "5 ml of Serum, 2 ml of Fluoride Plasma,\r\n20 ml of Spot Urine.",
+            "clinical_use": "Cortisol, T3, T4, TSH, FBS, Lipid Profile, Electrolytes, Creatinine \r\nCalcium, Phosphorus, Uric Acid, Urine Routine, BMI- Body\r\nMass Index Requiring Height, weight.",
+            "reporting_time": "Next Day",
+            "price": "2,000"
+        },
+        {
+            "ID": "369",
+            "test_name": "Occult Blood (Urine)",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "370",
+            "test_name": "Occult Blood (Stool)",
+            "sample_instruction": "Stool in Sterile Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "371",
+            "test_name": "Osmotic Fragility",
+            "sample_instruction": "3 ml EDTA Blood",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "372",
+            "test_name": "Pahadia Top screening Allergy Test",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "3 - 4 days",
+            "price": "1,150"
+        },
+        {
+            "ID": "373",
+            "test_name": "P - ANCA",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "374",
+            "test_name": "Pap Smear ",
+            "sample_instruction": "Fixed Smears",
+            "clinical_use": "Clinical History, Peripheral  smear Data or Smear is must",
+            "reporting_time": "2 - 3 days",
+            "price": "400"
+        },
+        {
+            "ID": "375",
+            "test_name": "PAPPA (Pregnancy Associated Plasma\r\nProtein)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Age, LMP is Required. Recommended with Free beda HCG in\r\n Dual Marker. Reference Range not Established. ",
+            "reporting_time": "3 - 5 days",
+            "price": "1,800"
+        },
+        {
+            "ID": "376",
+            "test_name": "Partial Thromboplastin Time - Kaolin",
+            "sample_instruction": "Plasma - Cit",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "377",
+            "test_name": "PBF Examination",
+            "sample_instruction": "5 Peripheral blood Smears and\r\n EDTA blood History Requsted",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "378",
+            "test_name": "PCOS Profile 1",
+            "sample_instruction": "2 ml Fluoride Plasma (F,PP), 5 ml of \r\nFasting serum Sample",
+            "clinical_use": "Moderate to severe Hirsutism, Classic PCOS,Qvulatory\r\nPCOS (FBS, PPBS, HOMA, Free Testosterone,FSH, LH, Prolactin,\r\n17 OHP, Androstenedione, DHEAS, DHT, Lipid Profile - 2, T3,T4\r\nTSH) ",
+            "reporting_time": "Next Day",
+            "price": "7,000"
+        },
+        {
+            "ID": "379",
+            "test_name": "PCOS Profile 2",
+            "sample_instruction": "2 ml Fluoride Plasma (F,PP), 5 ml of \r\nFasting serum Sample",
+            "clinical_use": "Moderate to severe Hirsutism, Classic PCOS,Qvulatory\r\nPCOS (FBS, PPBS, HOMA, Free Testosterone,FSH, LH, Prolactin,\r\n17 OHP, Androstenedione, DHEAS, DHT, Lipid Profile - 2, T3,T4\r\nTSH) ",
+            "reporting_time": "Next Day",
+            "price": "3,800"
+        },
+        {
+            "ID": "380",
+            "test_name": "PCR for Herpes Simplex Virus (OS)",
+            "sample_instruction": "EDTA Vacutainer - 3 ml Peripheral Blood\r\nPlasma ,Serum; Sterile container with \r\nNormal Saline Tissues; Sterile container\r\nBody Fluids and Amniotic Fluid; Sterile\r\nSwab - Cervical Material ",
+            "reporting_time": "5 - 7 days",
+            "price": "5,500"
+        },
+        {
+            "ID": "381",
+            "test_name": "PCR HLB 27",
+            "sample_instruction": "EDTA Vacutainer (3ml)",
+            "clinical_use": "Ankylosing Spondylitis",
+            "reporting_time": "5 - 7 days",
+            "price": "2,800"
+        },
+        {
+            "ID": "382",
+            "test_name": "PCR - Tuberculosis",
+            "sample_instruction": "Perepheral blood/ Plasma/ Serum/ Tissue\r\n/ BodyFluids/ Amniotic fluid/\r\n Cervical Swab",
+            "clinical_use": "EDTA Vacutainer - 3 ml Peripheral Blood\r\nPlasma ,Serum; Sterile container with \r\nNormal Saline Tissues; Sterile container\r\nBody Fluids and Amniotic Fluid; Sterile\r\nSwab - Cervical Material ",
+            "reporting_time": "3 - 5 days",
+            "price": "2,500"
+        },
+        {
+            "ID": "383",
+            "test_name": "Pericardial Fluid Cell Count Biochemistry",
+            "sample_instruction": "2 ml body fluid in EDTA vail,  2 ml Plain Vail Fluid",
+            "clinical_use": "Cell Count, Cell Type and Protein Sugar",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "384",
+            "test_name": "Pericardial Fluid For Pyogenic Culture",
+            "sample_instruction": "2 ml fluid Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "385",
+            "test_name": "Peritonil Fluid For Pyogenic Culture/ Sensitivity",
+            "sample_instruction": "2 ml fluid Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "386",
+            "test_name": "Phadia Top",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "3 - 4 days",
+            "price": "1,100"
+        },
+        {
+            "ID": "387",
+            "test_name": "Phenobarbitone Gardinal",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention time of Drug Dose (non Serum Seperator Tube)",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "388",
+            "test_name": "Phenytoin (Eption, Dilantin)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention time of Drug Dose (non Serum Seperator Tube)",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "389",
+            "test_name": "Phosphatase Alkaline",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Labile analyte. Separate at the earliest. Preserve well.",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "390",
+            "test_name": "Phospholipid Antibodies (IgM & IgG)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "391",
+            "test_name": "Phosphorus Inorganic ",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Kidney and Gastrointestinal Disorders",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "392",
+            "test_name": "Plasma ACTH",
+            "sample_instruction": "2 ml EDTA Plasma",
+            "clinical_use": "F 1 Cushing Syndrome 2. Addisons Disease. 3.Hyperpitutarism \r\n4.Hypopitutarism 5.Pitutary Tumor",
+            "reporting_time": "Same day",
+            "price": "1,350"
+        },
+        {
+            "ID": "393",
+            "test_name": "Plasma Metanphrine",
+            "sample_instruction": "3 ml of EDTA Plasma",
+            "clinical_use": "Pheochromocytoma",
+            "reporting_time": "3 - 4 days",
+            "price": "2,800"
+        },
+        {
+            "ID": "394",
+            "test_name": "Plasma Renin Activity ",
+            "sample_instruction": "3 ml of EDTA Plasma",
+            "clinical_use": "Extremely Labile  Analyte",
+            "reporting_time": "3 - 4 days",
+            "price": "2,000"
+        },
+        {
+            "ID": "395",
+            "test_name": "Pleural Fluid for Cell Count Biochemistry",
+            "sample_instruction": "2 ml of body Fluid In EDTA vail, 2 ml Plain Vail Fluid",
+            "clinical_use": "Cell Count, Cell Type and Protein Sugar",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "396",
+            "test_name": "Pleural Fluid For Cholesterol",
+            "sample_instruction": "2 ml body Fluid in Plane vail",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "397",
+            "test_name": "Pleural Fluid For Fibrinogen",
+            "reporting_time": "Next Day",
+            "price": "1,150"
+        },
+        {
+            "ID": "398",
+            "test_name": "Pleural Flid For Lactate Dehydrogenase",
+            "sample_instruction": "2 ml body Fluid in Plane vail",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "399",
+            "test_name": "Pleural Fluid For Pyogenic Culture",
+            "sample_instruction": "2 ml fluid Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "400",
+            "test_name": "Polycystic Ovarian Syndrome panel",
+            "clinical_use": "Glucose Fasting, Insulin,LH, FSH, DHEAS, Estrodial, 17 OHP",
+            "reporting_time": "Next Day",
+            "price": "3,210"
+        },
+        {
+            "ID": "401",
+            "test_name": "Porphobilinogen",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "402",
+            "test_name": "Porphyrins Qualitative",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "403",
+            "test_name": "Potassium",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "404",
+            "test_name": "Pregnancy Test Qualitative",
+            "sample_instruction": "10 ml of Morning Urine Sample",
+            "clinical_use": "Mention LMP",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "405",
+            "test_name": "Pre- Operative Profile",
+            "sample_instruction": "3 ml of EDTA whole blood, 2 ml of Citrate Plasma, 3 ml of Serum, 20 ml of Spot Urine",
+            "clinical_use": "CBC, Blood group, Urine Rt, BUN, FBS, HIV, HBsAG, Anti HCV, \r\nVDRL, BT, CT, PT, Aptt",
+            "reporting_time": "Same day",
+            "price": "2,000"
+        },
+        {
+            "ID": "406",
+            "test_name": "Pro - Calcitonin",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "For Septicemia",
+            "reporting_time": "Same day",
+            "price": "2,000"
+        },
+        {
+            "ID": "407",
+            "test_name": "Progesterone",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Mention Age/LMP and If Pregnant",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "408",
+            "test_name": "Prolactin",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Pituitary Tumors, Menstrual Irregularities, Infertility, Impotence\r\n and Galactorrhea. Collected after rest for 30 min. No exercise\r\n before collection. To be collected Between 8:30 AM in Morning\r\n to 12:30 PM",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "409",
+            "test_name": "Prostate Specific Antigen (PSA) Free (OS)",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Avoid test for 7 Days After PR Examination, USG, Recommended\r\n to do Psa Test Together and Ratio",
+            "reporting_time": "3 - 4 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "410",
+            "test_name": "Prostate Specific Antigen (PSA) Total",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Avoid test for 7 Days After PR Examination, USG, ",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "411",
+            "test_name": "Protein Creatinine Ratio",
+            "sample_instruction": "10 ml Spot Urine",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "412",
+            "test_name": "Proteins Total",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Useful in Evaluating Patients Nutritional Status, Liver Disease, Renal Disease and Gi Disease",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "413",
+            "test_name": "Prothrombin Time (Quick~S One Stage",
+            "sample_instruction": "Plasma - Cit",
+            "clinical_use": "Local Labs can Send Blood, Outstation Labs Must Send Plasma",
+            "reporting_time": "Same day",
+            "price": "170"
+        },
+        {
+            "ID": "414",
+            "test_name": "Protein - C (OS)",
+            "sample_instruction": "2 ml Platelet Poor Citrated Plasma",
+            "clinical_use": "Platelet Poor Plasma Requested. Separate at the Earliest. Preserve well",
+            "reporting_time": "3 - 4 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "415",
+            "test_name": "Protien -S (OS)",
+            "sample_instruction": "2 ml Platelet Poor Citrated Plasma",
+            "clinical_use": "Platelet Poor Plasma Requested. Separate at the Earliest. Preserve well",
+            "reporting_time": "3 - 4 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "416",
+            "test_name": "PTH Intact",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Labile Analyte, Separate at the Earliest. EDTA plasma sample is Recommended",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "417",
+            "test_name": "Pus for Gram Stain",
+            "sample_instruction": "2 ml Pus or 2 smear Slide",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "418",
+            "test_name": "Pus for Mycobacterium Tuberculosis",
+            "sample_instruction": "Pus in Sterile Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "419",
+            "test_name": "Quadraple",
+            "sample_instruction": "3 ml Serum",
+            "reporting_time": "3 - 4 days",
+            "price": "3,300"
+        },
+        {
+            "ID": "420",
+            "test_name": "Rapid HBsAg Hepatitis B s Antigen",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "421",
+            "test_name": "Rapid HIV 1-2 Antibody",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "422",
+            "test_name": "Rapid Malaria Test",
+            "sample_instruction": "2 ml EDTA WB",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "423",
+            "test_name": "RBC Folate ",
+            "sample_instruction": "3 ml WB - EDTA",
+            "reporting_time": "Next Day",
+            "price": "1,000"
+        },
+        {
+            "ID": "424",
+            "test_name": "Reducing Substances",
+            "sample_instruction": "Sterile Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "425",
+            "test_name": "Reducing sugars including Glucose",
+            "sample_instruction": "10 ml Spot Urine",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "426",
+            "test_name": "Renal/ Kidney Function Test",
+            "sample_instruction": "2 ml Serum",
+            "clinical_use": "Creatinine, Uric Acid, Calcium BUN, Proteins, Electrolytes",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "427",
+            "test_name": "Reticulocyte Count",
+            "sample_instruction": "2 ml EDTA WB",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "428",
+            "test_name": "Rh Antibody Titre",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "429",
+            "test_name": "Rheumatoid Arthritis Panel",
+            "sample_instruction": "3 ml of serum ",
+            "clinical_use": "ANA - IF, RA,CCP and CRP",
+            "reporting_time": "Same day",
+            "price": "2,200"
+        },
+        {
+            "ID": "430",
+            "test_name": "Rheumatoid Factor Qualitative",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "431",
+            "test_name": "Rheumatoid Factor Serum",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "For Diagnosis of Rheumatoid Arthritis",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "432",
+            "test_name": "Routine Exam. Of Fructose in Seminal Fluid",
+            "sample_instruction": "Full Quantity of Semen Sample",
+            "clinical_use": "For walk in Patients",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "433",
+            "test_name": "Routine Examination - Stool",
+            "sample_instruction": "20 Gms Stool in Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "434",
+            "test_name": "Routine Examination - Urine",
+            "sample_instruction": "Morining Urine Sample In Leak Proof Container",
+            "clinical_use": "Renal Damage, UTI, Diabetes, Hypertension, Drug toxicity",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "435",
+            "test_name": "Routine Examination of Seminal Fluid",
+            "sample_instruction": "Full Quantity of Semen Sample",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "436",
+            "test_name": "Rubella Antibody IgG",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "437",
+            "test_name": "Rubella Antibody IgG",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "438",
+            "test_name": "Rubella Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "439",
+            "test_name": "Rubella Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "440",
+            "test_name": "Saag Ratio",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "441",
+            "test_name": "Salmonella Typhi",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "442",
+            "test_name": "Scrub Typhus  Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "443",
+            "test_name": "Scrub Typhus  Antibody IgM Card",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "800"
+        },
+        {
+            "ID": "444",
+            "test_name": "Scrub Typhus IgG,IgM & IgA Antibody",
+            "sample_instruction": "2 ml serum ",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "445",
+            "test_name": "Second Opinion Slide",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "2 - 3 days",
+            "price": "200"
+        },
+        {
+            "ID": "446",
+            "test_name": "Serum Copper",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Wilson's Disease, Menkes Disease, Primary Biliary Cirrhosis Etc",
+            "reporting_time": "Same day",
+            "price": "700"
+        },
+        {
+            "ID": "447",
+            "test_name": "Sex Harmone Binding Globulin (SHBG)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,500"
+        },
+        {
+            "ID": "448",
+            "test_name": "Sickle Cell Test",
+            "sample_instruction": "2 ml EDTA WB",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "449",
+            "test_name": "Smear ENT Histolytica",
+            "sample_instruction": "Liver Abscess Fluid",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "450",
+            "test_name": "Smear for Candida",
+            "sample_instruction": "Any Specimen",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "451",
+            "test_name": "Smear for Cornbactm. DIPHT.",
+            "sample_instruction": "Throat Swab smear 2 slide",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "452",
+            "test_name": "Smear for Gram Stain",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "453",
+            "test_name": "Smear for Hydatid Cyst",
+            "sample_instruction": "Liver Abscess Fluid",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "454",
+            "test_name": "Smear For KLB stain",
+            "sample_instruction": "Throat Swab smear 2 slide",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "455",
+            "test_name": "Smear for KOH Mount",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "456",
+            "test_name": "Smear for Leishmania",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "457",
+            "test_name": "Smear for Mycobacterium Leprae",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "458",
+            "test_name": "Smear for Trichomonas Vaginalis",
+            "sample_instruction": "Vaginal swab Smear",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "459",
+            "test_name": "Smear for Other stain (Specify)",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "460",
+            "test_name": "Sodium",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Hyper or Hyponatraemia",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "461",
+            "test_name": "Specific Gravity",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "462",
+            "test_name": "Spot Urinary Urea",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "463",
+            "test_name": "Spot Urinary Calcium",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "464",
+            "test_name": "Spot Urinary Creatinine",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "465",
+            "test_name": "Spot Urinary Protein",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "466",
+            "test_name": "Spot Urine Electrolytes",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "467",
+            "test_name": "Spot Urine Nicotine level (Cotinine)",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "use for Monitering Tabacco use",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "468",
+            "test_name": "Spot Urine Phosphorus",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "469",
+            "test_name": "Sputum for Gram Stain",
+            "sample_instruction": "Sputum Sample In Sterile Leak Proof \r\nContainer",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "470",
+            "test_name": "Sputum For Mycobacterium Tuberculosis",
+            "sample_instruction": "Sputum Sample In Sterile Leak Proof \r\nContainer",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "471",
+            "test_name": "Stercobilinogen Semi- Quantitative",
+            "sample_instruction": "20 Gms Stool in Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "472",
+            "test_name": "Stone Analysis (OS)",
+            "sample_instruction": "Stone",
+            "reporting_time": "7 - 10 days",
+            "price": "500"
+        },
+        {
+            "ID": "473",
+            "test_name": "Stone Analysis by FTIR on Spectrum 2",
+            "sample_instruction": "Urinary Stone Sample in Plain",
+            "clinical_use": "History Required",
+            "reporting_time": "5 - 7 days",
+            "price": "1,000"
+        },
+        {
+            "ID": "474",
+            "test_name": "Stone Screening Profile - 1 Comprehensive metabolic workup",
+            "sample_instruction": "5 ml of Serum and 20 ml of 24 hrs Urine\r\n Sample. Boric Acid Preservative",
+            "clinical_use": "Serum - Uric Acid, Phosphorus, Calcium electrolytes (Sodium \r\nPotassium, bicarbonates, ch;orides),Creatinine, PTH & 24 hrs\r\nUrine- Uric acid,phosphorus,Calcium, Magnesium, Oxalate,\r\nCitrate Electrolytes, Creatinine",
+            "reporting_time": "3 - 4 days",
+            "price": "5,000"
+        },
+        {
+            "ID": "475",
+            "test_name": "Stool Culture For Pyogenic Organisms",
+            "sample_instruction": "Stool Sample In Sterile Container/ \r\nTransport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)\r\nSensitivity Done on Case Basis",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "476",
+            "test_name": "Stool for Rota Virus",
+            "sample_instruction": "20 Gms Stool in Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "477",
+            "test_name": "Stool pH Estimation",
+            "sample_instruction": "Stool in Sterile Leak Proof Container",
+            "reporting_time": "Same day",
+            "price": "50"
+        },
+        {
+            "ID": "478",
+            "test_name": "Synovial Fluid For Crystal",
+            "sample_instruction": "Synovial Fluid",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "479",
+            "test_name": "Synovial Fluid For Pyogenic Culture/ Sensitivity",
+            "sample_instruction": "2 ml fluid Sample in Sterile Container",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)\r\nSensitivity Done on Case Basis",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "480",
+            "test_name": "Synovial Fluid Cell Count Biochemistry",
+            "sample_instruction": "3 ml of fluid in Sterile Container",
+            "clinical_use": "Cell Count, Cell Type and Protein Sugar",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "481",
+            "test_name": "Syphilis  Anti - TP Test",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "482",
+            "test_name": "T4 Total & TSH",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "483",
+            "test_name": "Tacrolimus (OS)",
+            "sample_instruction": "3 ml of EDTA Whole Blood",
+            "clinical_use": "Immunosuppresive Drug. Pangraf Levels",
+            "reporting_time": "3 - 4 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "484",
+            "test_name": "TB - QuantiFeron",
+            "sample_instruction": "3 ml Heparine",
+            "reporting_time": "Next Day",
+            "price": "2,500"
+        },
+        {
+            "ID": "485",
+            "test_name": "TB Drug 2 Line",
+            "sample_instruction": "Pure Culture",
+            "clinical_use": "Treatment History Required. Request To be sent Within 4 Days\r\nof  Positive Culture",
+            "reporting_time": "15 - 20 days",
+            "price": "10,000"
+        },
+        {
+            "ID": "486",
+            "test_name": "TB Drug First Line ",
+            "sample_instruction": "Pure Culture",
+            "clinical_use": "Treatment History Required. Request To be sent Within 4 Days\r\nof  Positive Culture",
+            "reporting_time": "15 - 20 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "487",
+            "test_name": "TB Drug First Line PZA",
+            "sample_instruction": "Pure Culture",
+            "clinical_use": "Treatment History Required. Request To be sent Within 4 Days\r\nof  Positive Culture",
+            "reporting_time": "15 - 20 days",
+            "price": "4,000"
+        },
+        {
+            "ID": "488",
+            "test_name": "Testosterone",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "489",
+            "test_name": "Testosterone FREE",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Age, Sex to be Mentioned",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "490",
+            "test_name": "Thalassemia Studies",
+            "sample_instruction": "3 ml of EDTA whole blood and 3 ml of \r\nserum",
+            "clinical_use": "CBC, Iron,TIBC, TS%\r\nAbnormal Haemoglobin Studies",
+            "reporting_time": "3 - 4 days",
+            "price": "1,500"
+        },
+        {
+            "ID": "491",
+            "test_name": "Throat Swab for Pyogenic Culture",
+            "sample_instruction": "Throat Swab in Sterile Container/ Amies\r\nTransport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)\r\nSensitivity Done on Case Basis",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "492",
+            "test_name": "Thyroglobulin",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Used For Monitering Patients with thyroid Cancer",
+            "reporting_time": "Same day",
+            "price": "1000"
+        },
+        {
+            "ID": "493",
+            "test_name": "Thyroid - Thyroxine (T4)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "494",
+            "test_name": "Thyroid - Free FT3",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "495",
+            "test_name": "Thyroid - Free FT4",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "496",
+            "test_name": "Thyroid Peroxidase Antibodies (TPO)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "497",
+            "test_name": "Thyroid Profile",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "500"
+        },
+        {
+            "ID": "498",
+            "test_name": "Thyroid Stimulating Harmone (TSH)",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "499",
+            "test_name": "Thyroid Thyroglobulin",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "650"
+        },
+        {
+            "ID": "500",
+            "test_name": "Thyroid - Triiodothyronine T3",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "501",
+            "test_name": "TIBC",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "502",
+            "test_name": "Tissue Transglutaminase (TTG)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Associated with Coeliac Disease and Dermatitis Herpetiformis",
+            "reporting_time": "Same day",
+            "price": "900"
+        },
+        {
+            "ID": "503",
+            "test_name": "TorchIgG",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "503",
+            "test_name": "TorchIgG",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "504",
+            "test_name": "Torch IgM",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,200"
+        },
+        {
+            "ID": "505",
+            "test_name": "Torch IgM",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "506",
+            "test_name": "Torch Pannel",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "2,000"
+        },
+        {
+            "ID": "507",
+            "test_name": "Total Eosinophil Count",
+            "sample_instruction": "2 ml EDTA WB",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "508",
+            "test_name": "Total Platelet Count",
+            "sample_instruction": "2 ml EDTA WB",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "509",
+            "test_name": "Toxoplasma Antibody IgG",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "510",
+            "test_name": "Toxoplasma Antibody IgG",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "511",
+            "test_name": "Toxoplasma Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "512",
+            "test_name": "Toxoplasma Antibody IgM",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "513",
+            "test_name": "Transferin",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "514",
+            "test_name": "Transferin Saturation",
+            "reporting_time": "Same day",
+            "price": "800"
+        },
+        {
+            "ID": "515",
+            "test_name": "Triglycerides",
+            "sample_instruction": "2 ml of serum(12 - 14 hrs fasting)",
+            "clinical_use": "High Conc. Are Associated with Pancreatitis and Increased Risk\r\n for Cardiovascular Disease",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "516",
+            "test_name": "Triple Test",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Mention LMP, USG Findings or Other Clinical History. HCG-beta,\r\nAFP,uE3. Age with DOB, weight, Recommanded for 15 to 21 week",
+            "reporting_time": "Same day",
+            "price": "2,200"
+        },
+        {
+            "ID": "517",
+            "test_name": "Troponin - I",
+            "sample_instruction": "2 ml of serum",
+            "clinical_use": "Myocardial Infarction",
+            "reporting_time": "Same day",
+            "price": "800"
+        },
+        {
+            "ID": "518",
+            "test_name": "TSH (Ultrasensitive)",
+            "sample_instruction": "2 ml serum ",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "519",
+            "test_name": "Umblical Swab for Pyogenic Culture",
+            "sample_instruction": "Umblical Swab in Sterile Container/ \r\nAmies Transport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)\r\nSensitivity Done on Case Basis",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "520",
+            "test_name": "Urea",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "521",
+            "test_name": "Urea Nitrogen Quantitative",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Calculated",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "522",
+            "test_name": "Uric Acid",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Gout, Metabolis Disorder of Purine Metabolism\r\nLesch - Nyhan & Fanconi Syndrome",
+            "reporting_time": "Same day",
+            "price": "120"
+        },
+        {
+            "ID": "523",
+            "test_name": "Urinary Calcium Creatnine Ratio",
+            "sample_instruction": "10 ml of 24 hrs Urine",
+            "clinical_use": "Mention 24 Hrs Urine Volume",
+            "reporting_time": "Same day",
+            "price": "300"
+        },
+        {
+            "ID": "524",
+            "test_name": "Urinary Chloride Random (Spot)",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "525",
+            "test_name": "Urinary Electrolytes Random (Spot)",
+            "sample_instruction": "10 ml of Spot urine",
+            "reporting_time": "Same day",
+            "price": "400"
+        },
+        {
+            "ID": "526",
+            "test_name": "Urinary Potassium Random (Spot)",
+            "sample_instruction": "10 ml Spot Urine",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "527",
+            "test_name": "Urinary Sodium Random (Spot)",
+            "sample_instruction": "10 ml Spot Urine",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "528",
+            "test_name": "Urine Cotinine",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "529",
+            "test_name": "Urine Culture For Pyogenic Organisms",
+            "sample_instruction": "Morning Mid stream Urine Sample",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)\r\nSensitivity Done on Case Basis",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "530",
+            "test_name": "Urine For Chylomicrons",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "250"
+        },
+        {
+            "ID": "531",
+            "test_name": "Urine Culture for Ketone Bodies",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "532",
+            "test_name": "Urine for Osmolality Test",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "800"
+        },
+        {
+            "ID": "533",
+            "test_name": "Urine Glucose (Fasting)",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "10"
+        },
+        {
+            "ID": "534",
+            "test_name": "Urine Haemoglobin",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "535",
+            "test_name": "Urine Homocystine",
+            "sample_instruction": "20 ml of Spot Urine",
+            "clinical_use": "Please Enquire Before Sending Sample. Screening test by \r\nSodium Cynide method",
+            "reporting_time": "5 - 7 days",
+            "price": "1,150"
+        },
+        {
+            "ID": "536",
+            "test_name": "Urine Myoglobin",
+            "sample_instruction": "10 ml of Spot Urine",
+            "clinical_use": "Skeletal Muscle Injury Marker",
+            "reporting_time": "3 - 4 days",
+            "price": "1,200"
+        },
+        {
+            "ID": "537",
+            "test_name": "Urine Reducing Substance",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "538",
+            "test_name": "Urine Reducing Quantitative",
+            "sample_instruction": "2 ml of Spot Urine",
+            "clinical_use": "Hyper or Hyponatraemia. Referance Range not Established",
+            "reporting_time": "Same day",
+            "price": "150"
+        },
+        {
+            "ID": "539",
+            "test_name": "Urine Sugar Post Prandial 2 hrs",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "10"
+        },
+        {
+            "ID": "540",
+            "test_name": "Urine Sugar Random",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "10"
+        },
+        {
+            "ID": "541",
+            "test_name": "Urobilonogen",
+            "sample_instruction": "10 ml of Spot Urine",
+            "reporting_time": "Same day",
+            "price": "200"
+        },
+        {
+            "ID": "542",
+            "test_name": "VDRL Test CSF",
+            "sample_instruction": "2 ml CSF ",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "543",
+            "test_name": "VDRL Test Serum",
+            "sample_instruction": "2 ml serum",
+            "reporting_time": "Same day",
+            "price": "100"
+        },
+        {
+            "ID": "544",
+            "test_name": "Vacuolated Eosinophil count",
+            "sample_instruction": "2 ml EDTA WB",
+            "reporting_time": "Same day",
+            "price": "70"
+        },
+        {
+            "ID": "546",
+            "test_name": "Valproic Acid",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "1,000"
+        },
+        {
+            "ID": "547",
+            "test_name": "Vit - B12",
+            "sample_instruction": "2 ml of Serum",
+            "reporting_time": "Same day",
+            "price": "600"
+        },
+        {
+            "ID": "548",
+            "test_name": "Vitamin D 25 OH",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Same day",
+            "price": "1,500"
+        },
+        {
+            "ID": "549",
+            "test_name": "Vitamin B6 (Pyridoxal Phosphate) Blood",
+            "sample_instruction": "3 ml of EDTA whole Blood Covered In\r\n Aluminium Foil",
+            "reporting_time": "5 - 7 days",
+            "price": "2,800"
+        },
+        {
+            "ID": "550",
+            "test_name": "Vitamin D3 (125OH)",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "1. Primary Hyperparathyrodism\r\n2. Rickets. 3. Vitamin D status in patients with Chronic renal Disease (If not Indicated 25 OH Vitamin D is Taken)",
+            "reporting_time": "5 - 7 days",
+            "price": "3,500"
+        },
+        {
+            "ID": "551",
+            "test_name": "Weil Felix Test",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Rickettsial Infection",
+            "reporting_time": "3 - 5 days",
+            "price": "800"
+        },
+        {
+            "ID": "552",
+            "test_name": "Widal (tube Diluton)",
+            "sample_instruction": "2 ml Serum",
+            "reporting_time": "Next Day",
+            "price": "150"
+        },
+        {
+            "ID": "553",
+            "test_name": "Wound Swab For Pyogenic Culture",
+            "sample_instruction": "Wound Swab in Sterile Container/ Amies\r\nTransport Medium",
+            "clinical_use": "Clinical History Required. (Outstation samples are not accepted)\r\nSensitivity Done on Case Basis",
+            "reporting_time": "3 - 4 days",
+            "price": "200"
+        },
+        {
+            "ID": "554",
+            "test_name": "Y Glutamyl Transferase",
+            "sample_instruction": "2 ml serum",
+            "clinical_use": "Billary Tract Disease",
+            "reporting_time": "Same day",
+            "price": "350"
+        },
+        {
+            "ID": "555",
+            "test_name": "Zinc",
+            "sample_instruction": "3 ml of EDTA whole Blood (Use Metal\r\n Free Container",
+            "clinical_use": "To Detect And Monitor Industrial, Dietary and Accidental \r\nExposer to Zinc",
+            "reporting_time": "3 - 5 days",
+            "price": "1,600"
+        }
+    ]
+}

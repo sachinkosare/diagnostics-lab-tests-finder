@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
+    <title>UK Diagnostics - Rate Management System</title>
+    <link href="styles/font.css" rel="stylesheet">
+    <link href="styles/general.css" rel="stylesheet">
+    <link href="styles/libs/angular-material.min.css" rel="stylesheet">    
+</head>
+
+<body ng-app="UkDiagnosticsRatesApp" class="uk-diagnostics header-fixed sidebar-fixed aside-menu-fixed aside-menu-hidden"
+    ng-controller="UkDiagnosticsRatesController as rateCtrl">
+
+    <header class="app-header navbar ng-scope" ng-include="PATHS.TEMPLATE + '/header.html'"></header>
+
+    <section layout="row">
+        <div ng-include="PATHS.TEMPLATE + '/sidebar.html'"></div>
+
+        <md-content class="page-content" flex>
+            <!-- <md-toolbar class="md-raised">
+                    <h2 class="md-toolbar-tools">
+                        <span>{{ viewTitle }}</span>
+                    </h2>
+            </md-toolbar> -->
+            <div ng-include="PATHS.TEMPLATE + '/' + templatePath"></div>
+        </md-content>
+    </section>
+
+</body>
+
+
+
+<script src="scripts/libs/jquery/jquery.min.js"></script>
+<script src="scripts/libs/angular/angular_1.6.9.min.js"></script>
+<script src="scripts/libs/angular/angular-animate.min.js"></script>
+<script src="scripts/libs/angular/angular-aria.min.js"></script>
+<script src="scripts/libs/angular/angular-messages.min.js"></script>
+<script src="scripts/libs/angular/angular-material.min.js"></script>
+<script src="scripts/libs/angular/angular-sanitize.js"></script>
+<script src="scripts/libs/angular/ngStorage.min.js"></script>
+<script src="scripts/core/app.js"></script>
+<script src="scripts/core/controllers.js"></script>
+<script src="scripts/core/services.js"></script>
+<script src="scripts/core/directives.js"></script>
+<script src="scripts/core/constants.js"></script>
+
+</body>
+</html>

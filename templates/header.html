@@ -1,0 +1,44 @@
+<button class="navbar-toggler mobile-sidebar-toggler d-lg-none" type="button">
+    <span class="navbar-toggler-icon"></span>
+</button>
+<a class="navbar-brand"></a>
+
+<ul class="nav navbar-nav ml-auto d-md-down-none" style="width: 85%;">
+    <li class="nav-item" style="width: 100%;">
+        <md-content>
+            <form ng-submit="$event.preventDefault()"><i class="material-icons">search</i>
+                <md-autocomplete 
+                    md-autofocus="true" 
+                    id="custom-template" 
+                    ng-disabled="false" 
+                    md-no-cache="true"
+                    md-search-text="rateCtrl.searchText"
+                    md-items="item in rateCtrl.querySearch(rateCtrl.searchText)" 
+                    md-item-text="item.test_name"
+                    placeholder="Search tests here..." 
+                    md-menu-class="autocomplete-custom-template"
+                    md-menu-container-class="custom-container"
+                    md-clear-button="true"
+                    md-selected-item-change="rateCtrl.selectedItemChange(item)">
+                    <md-item-template>
+                        <md-list>
+                            <md-list-item class="md-3-line">
+                                <div class="md-list-item-text">
+                                    <h3>{{item.test_name}}</h3>
+                                    <p>
+                                        <span style="padding-right: 10px;border-right: 1px solid lightgray; ">₹{{item.price}}</span>
+                                        <span style="padding-left: 5px;">{{item.reporting_time}}</span>
+                                    </p>
+
+                                </div>
+                                <md-button class="md-raised add" ng-if="!item.selected" ng-blur="console.log('button blur')" ng-click="AddToList(item, $event)"><i class="material-icons">add</i></md-button>
+                                <md-button class="md-raised remove" ng-if="item.selected" ng-blur="console.log('button blur')" ng-click="RemoveFromList(item, $event)"><i class="material-icons">remove</i></md-button>
+                            </md-list-item>
+                        </md-list>
+                    </md-item-template>
+                </md-autocomplete>
+            </form>
+        </md-content>
+    </li>
+</ul>
+<ul class="nav navbar-nav ml-auto d-md-down-none"></ul>

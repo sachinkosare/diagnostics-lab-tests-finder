@@ -1,0 +1,68 @@
+<div class="md-padding" ng-if="currentSelectedItemId == 0">
+    There are no tests in your current list.
+</div>
+
+<md-grid-list md-cols-xs="1" md-cols-sm="2" md-cols-md="4" md-cols-gt-md="6" md-row-height-gt-md="1:1" md-row-height="2:2"
+    md-gutter="12px" md-gutter-gt-sm="8px" ng-if="currentSelectedItemId != 0">
+
+    <md-grid-tile md-rowspan="3" md-colspan="4" md-colspan-sm="1" md-colspan-xs="1">
+        <md-grid-tile-header style="background: #3E3471;">
+            <h3 class="md-subhead" style="inline-block;">{{ allItems[currentSelectedItemId].test_name }}</h3>
+            <md-button id="add-from-details" class="md-raised" ng-if="!allItems[currentSelectedItemId].selected" ng-click="AddToList(allItems[currentSelectedItemId], $event)" style="right: 0; position: absolute; top: 0;"><i class="material-icons">add</i>Add</md-button>
+            <md-button id="remove-from-details" class="md-raised" ng-if="allItems[currentSelectedItemId].selected" ng-click="RemoveFromList(allItems[currentSelectedItemId], $event)" style="right: 0; position: absolute; top: 0;"><i class="material-icons">remove</i>Remove</md-button>
+        </md-grid-tile-header>
+        <md-content style="position: absolute; top: 50px;width: 100%;">
+            <md-tabs md-dynamic-height md-border-bottom>
+                <md-tab label="overview">
+                    <md-content class="md-padding">
+                        <h1 style="margin: 10px 0px;font-size: 18px">{{ allItems[currentSelectedItemId].test_name }}</h1>
+                        <md-list flex>
+                            <md-list-item>
+                                <i class="material-icons" style="padding-right: 10px;">access_time</i>
+                                <div class="md-list-item-text">Reporting Time <md-chips><md-chip>{{ allItems[currentSelectedItemId].reporting_time }}</md-chip></md-chips></div>
+                            </md-list-item>
+                            <md-divider></md-divider>
+                            <md-list-item>
+                                    <i class="material-icons" style="padding-right: 10px;">local_atm</i>
+                                    <div class="md-list-item-text">Price <md-chips><md-chip>{{ allItems[currentSelectedItemId].price }}</md-chip></md-chips></div>
+                                </md-list-item>
+                        </md-list>
+                    </md-content>
+                </md-tab>
+
+                <md-tab label="sample instruction">
+                    <md-content class="md-padding">
+                        <p>{{ allItems[currentSelectedItemId].sample_instruction }}</p>
+                    </md-content>
+                </md-tab>
+
+                <md-tab label="clinical use">
+                    <md-content class="md-padding">
+                        <p>{{ allItems[currentSelectedItemId].clinical_use }}</p>
+                    </md-content>
+                </md-tab>
+
+            </md-tabs>
+        </md-content>
+    </md-grid-tile>
+
+    <md-grid-tile md-colspan="2" md-colspan-sm="1" md-colspan-xs="1">
+        <md-grid-tile-header style="background: #3E3471;">
+            <h3 class="md-subhead" style="inline-block;">Current List ({{ selectedItems.length }}) <span ng-if="listTotal!=0" class="md-warn md-button md-raised"  style="right: 0; position: absolute; top: 0;font-size: 15pt;font-weight: bold;">₹{{listTotal}}</span></h3>
+        </md-grid-tile-header>
+        <md-content style="position: absolute; top: 50px;width: 100%; padding: 10px 0px;">
+            <md-list flex class="md-dense ">
+                <md-list-item ng-class="{ 'list-item-sel' : currentSelectedItemId == itemId }" class="md-2-line " ng-repeat="itemId in selectedItems" style="padding-left: 10px;">
+                    <div ng-click="updateCurrentSelectedItemId(itemId)" style="cursor: pointer;outline: none;" class="md-list-item-text" layout="column">
+                        <h4>{{ allItems[itemId].test_name }}</h4>
+                        <h5 style="margin: 0px;">₹{{ allItems[itemId].price }}</h5>
+                    </div>
+                    <md-button id="remove-from-summary" style="min-width: 0;" ng-click="RemoveFromList(allItems[itemId], $event)"><i class="material-icons" style="color: red;">clear</i></md-button>
+                    <md-divider ng-if="!$last"></md-divider>
+                </md-list-item>
+            </md-list>
+        </md-content>
+    </md-grid-tile>
+
+
+</md-grid-list>

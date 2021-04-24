@@ -1,0 +1,13 @@
+<md-sidenav flex class="md-sidenav-left" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4">
+    <md-content layout-padding>
+        <md-menu>
+            <md-menu-content width="4">
+                    <md-menu-item ng-repeat="(key, viewItem) in views" ng-if="viewItem.visible" >
+                        <md-button ng-click="updateView(viewItem.id, false)" ng-class="{ 'md-raised' : currentView == viewItem.id }">
+                            <i class="material-icons">{{ viewItem.icon }}</i>{{ viewItem.label }} ({{ selectedItems.length }})
+                        </md-button>
+                    </md-menu-item>
+            </md-menu-content>
+        </md-menu>
+    </md-content>
+</md-sidenav>
